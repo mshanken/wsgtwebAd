@@ -92,8 +92,40 @@ td p{ text-align:left; }
         <h2 class="ub color-redishpurple" style="font-family:Arial; font-size:18px; font-weight:bold;">ALL TICKETS ARE $225 EACH<br /><small>You will receive an immediate e-ticket.</small></h2>
 		
 		<div id="photo-section" align="center">
-			<img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WSGT15-webPage-video.jpg" alt=""/>
-        </div>
+			<!-- Start of Brightcove Player -->
+
+			<div style="display:none">
+			
+			</div>
+			
+			<!--
+			By use of this code snippet, I agree to the Brightcove Publisher T and C 
+			found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+			-->
+			
+			<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+			
+			<object id="myExperience3974122558001" class="BrightcoveExperience">
+			  <param name="bgcolor" value="#FFFFFF" />
+			  <param name="width" value="600" />
+			  <param name="height" value="386" />
+			  <param name="playerID" value="3127014252001" />
+			  <param name="playerKey" value="AQ~~,AAAAAAkNHlc~,obZoXc4GRvmAVDXtY3VwHWHfzLUwZoxn" />
+			  <param name="isVid" value="true" />
+			  <param name="dynamicStreaming" value="true" />
+			    
+			  <param name="@videoPlayer" value="3974122558001" />
+			</object>
+			
+			<!-- 
+			This script tag will cause the Brightcove Players defined above it to be created as soon
+			as the line is read by the browser. If you wish to have the player instantiated only after
+			the rest of the HTML is processed and the page load is complete, remove the line.
+			-->
+			<script type="text/javascript">brightcove.createExperiences();</script>
+			
+			<!-- End of Brightcove Player -->
+			        </div>
         
         <h3 class="color-purple">All wines are <em>WINE SPECTATOR</em>'s top-scoring selections</h3><hr />
         <h3 class="color-purple">Meet and mingle with many winery owners and/or winemakers</h3><hr />
