@@ -1,0 +1,452 @@
+.container{
+	max-width: 720px;
+	border: solid #000000;
+}
+#the-wines a:active { 
+    background-color: #9e004f;
+}
+
+.head_logo{
+	padding-left: 0;
+}
+.nav{
+	background-color: #000000;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover{
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+    color: #000000 !important;
+    background-color: #9e004f !important;
+    padding-left: 15px;
+    margin-left: 15px;
+    margin-left:20px;
+    border-radius: 2.0em;
+}
+.nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:active{
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+    color: #000000 !important;
+    background-color: #f1d263 !important;
+    padding-left: 15px;
+    margin-left: 15px;
+    margin-left:20px;
+    border-radius: 2.0em;
+}
+
+.wines-text{
+	color: #9e004f;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	font-size:25px;
+	text-align: center;
+	margin-top:15px;
+}
+.holding-button{
+	text-align: center;
+}
+.btn-group>.btn:{
+    margin-left: 0;
+    background-color: #f1d263;
+    color: #fff;
+    padding: 5px 50px;
+    border: #a98d00 solid 1px;
+}
+.copy-text-first{
+	color: #2e1263;
+	font-size: 18px;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	text-align: center;
+	margin-top:15px;
+}
+.copy-text{
+	color: #2e1263;
+	font-size: 18px;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	text-align: center;
+	margin-top:10px;
+	margin-bottom:5px;
+}
+.border{
+	margin: 0 auto;
+}
+.extended-text{
+	color: #9e004f;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	font-size:30px;
+	text-align: center;
+}
+.plain-text{
+	color: #000000;
+	font-size: 18px;
+	font-family: Myriad Pro;
+	text-align: center;
+}
+.weekend-text{
+	color: #2e1263;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	font-size:15px;
+	text-align: center;
+}
+.for-questions{
+	color: #9e004f;
+	font-family: Myriad Pro;
+	font-weight: bold;
+	font-size:18px;
+	text-align: center;
+}
+.footer-text{
+	color: #000000;
+	font-family: Myriad Pro;
+	font-size:13px;
+	text-align: center;
+}
+.the-wines{
+	color: #9e004f;
+	font-family: Gotham Black, GothamCondensed Bold, Myriad Pro, Arial;
+	font-size:40px;
+	font-weight: bold;
+	text-align: center;
+	margin-top:15px;
+	margin-bottom:0px;
+	text-transform: uppercase;
+}
+.wines-background{
+	background-color: #baa433;
+}
+.all-wines-title{
+	color: #ffffff;
+	font-family: Gotham Black, Myriad Pro;
+	font-size:26px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 10px;
+}
+ul{
+	padding-left: 0px;
+	list-style-type: none;
+}
+.rating{
+	color: #9e004f;
+	font-weight: bold;
+}
+.wine-list-item{
+	font-size: 14px;
+	font-family: ;
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+.wine-name-leftover{
+	padding-left:20px;
+}
+#kill-padding{
+	padding-left:3px !important;
+	padding-right:3px !important;
+}
+#nav-color{
+	color:#f1d263;
+	background-color:#000000;
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-group .btn #wines{
+	margin-left: 0;
+    background-color: #9e004f;
+    color: #fff;
+    padding: 5px 50px;
+    border: #a98d00 solid 1px;
+}
+foot_banner{
+	max-width: 100% !important;
+}
+#homepage-locations{
+	padding-right:2px;
+	padding-left:2px;
+}
+#homepage-image{
+	padding: 0px !important;
+}
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+  .wine-name-leftover{
+  	font-size: 14px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	padding-left:0px !important;
+  }
+  .wine-list-item{
+  	
+  }
+  .nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover{
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+    color: #000 !important;
+    background-color: #f1d263 !important;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left:33px;
+    border-radius: 2.0em;
+	}
+	#location-images{
+		margin:0 auto;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+  .wine-name-leftover{
+  	font-size: 14px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	padding-left:0px !important;
+  }
+  .wine-list-item{
+  	
+  }
+  .nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover{
+	font-size: 12px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #000 !important;
+    background-color: #f1d263 !important;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    border-radius: 2.0em;
+	}
+	#location-images{
+		margin:0 auto;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  .nav-pills>li>a, .nav-pills>li>a:focus, .nav-pills>li>a:hover #the-wines{
+	font-size: 12px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #000 !important;
+    background-color: #f1d263 !important;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    border-radius: 2.0em;
+	}
+	#the-wines{
+		
+	}
+	#location-images{
+		margin:0 auto;
+	}
+	#wine-page-ny{
+		/* background-image: url('http://assets.mshanken.com/promo/images/WSGT16_webpage_homeV6-newyork.jpg'); */
+		background-repeat: no-repeat;
+	}
+	#wine-page-dc{
+		/* background-image: url('http://assets.mshanken.com/promo/images/WSGT16_webpage_homeV6-DC.jpg'); */
+		background-repeat: no-repeat;
+	}
+	#wine-page-lv{
+		/* background-image: url('http://assets.mshanken.com/promo/images/WSGT16_webpage_homeV6-LV.jpg'); */
+		background-repeat: no-repeat;
+	}
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+}
+
+
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+	.wine-name-leftover{
+		padding-left:0px !important;
+	}
+	.wine-list-item{
+		font-size: 18px;
+	}
+	#location-images{
+		margin:0px auto !important;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
