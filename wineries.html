@@ -15,23 +15,9 @@
     <!-- Bootstrap -->
     <link href="https://s3.amazonaws.com/nywe2014.winespectator.com/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css" media="screen">
-      #las_vegas{
-        padding-right: 0;
-      }
-      #lv_image{
-        height: 255px;
-      }
-      #chicago{
-        padding-right: 0;
-        padding-left: 0;
-        height: 255px;
-      }
-      #miami{
-        padding-left: 0;
-      }
-      #miami_image{
-        height: 255px;
-      }
+        #border{
+          border: solid 7px #2d1263;
+        }
       /* ----------- iPhone 4 and 4S ----------- */
       /* Portrait and Landscape */
       @media only screen 
@@ -46,29 +32,7 @@
         and (max-device-width: 480px)
         and (-webkit-min-device-pixel-ratio: 2)
         and (orientation: portrait) {
-           #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-           height: auto;
-           margin-right: 0px !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;
-            margin-left: 0px !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
+           
       }
 
       /* Landscape */
@@ -96,29 +60,7 @@
         and (max-device-width: 568px)
         and (-webkit-min-device-pixel-ratio: 2)
         and (orientation: portrait) {
-           #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-           height: auto;
-           margin-right: 0px !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;
-            margin-left: 0px !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
+           
       }
 
       /* Landscape */
@@ -146,29 +88,7 @@
         and (max-device-width: 667px) 
         and (-webkit-min-device-pixel-ratio: 2)
         and (orientation: portrait) { 
-          #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-           height: auto;
-           margin-right: 0px !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;
-            margin-left: 0px !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
+          
       }
 
       /* Landscape */
@@ -177,33 +97,7 @@
         and (max-device-width: 667px) 
         and (-webkit-min-device-pixel-ratio: 2)
         and (orientation: landscape) { 
-          #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-            height: auto;            
-            margin: 0 auto !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;            
-            margin: 0 auto !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
-          #chicago{
-            margin-left: 0px !important;
-            height: auto;
-          }
+          
       }
 
       /* ----------- iPhone 6+ ----------- */
@@ -222,34 +116,7 @@
         and (max-device-width: 736px) 
         and (-webkit-min-device-pixel-ratio: 3)
         and (orientation: portrait) { 
-           #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-           height: auto;
-           margin-right: 0px !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;
-            margin-left: 0px !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
-          #chicago{
-            padding-right: 0;
-            padding-left: 0;
-            height: auto;
-          }
+           
       }
 
       /* Landscape */
@@ -258,33 +125,7 @@
         and (max-device-width: 736px) 
         and (-webkit-min-device-pixel-ratio: 3)
         and (orientation: landscape) { 
-          #mobile_view{
-            padding-left: 0;
-            padding-right: 0;
-          }
-          #las_vegas{
-            padding-right: 0;
-            padding-left: 0;
-          }
-          #lv_image{
-            height: auto;            
-            margin: 0 auto !important;
-          }
-          #miami{
-            padding-right: 0px !important;
-          }
-           #miami_image{
-            height: auto;            
-            margin: 0 auto !important;
-          }
-          #mobile_footer{
-            padding-left: 0 !important;
-            padding-right: 0 !important;
-          }
-          #chicago{
-            width: 680px;
-            margin-left: 14px !important;
-          }
+         
       }
     </style>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -303,12 +144,14 @@
       </div><!-- row -->
 
       <div class="row">
-        <div class="col-lg-12 col-xs-12">
-          <div class="col-lg-12 col-xs-12" id="las_vegas">
-            <p>All Wines Are Rated 90+ by Wine Spectator’s Editors!</p>
-            <p>2017 GRAND TOUR WINERIES</p>
-          </div><!-- col-lg-12 -->
-        </div><!-- col-lg-12 col-xs-12 -->
+        <div class="col-lg-12 col-xs-12" id="border">
+          <div class="row">
+            <div class="col-lg-12 col-xs-12" id="white_background">
+              <p class="headline_1">All Wines Are Rated 90+ by Wine Spectator’s Editors!</p>
+              <p class="headline_2">2017 GRAND TOUR WINERIES</p>
+            </div><!-- col-lg-12 -->
+          </div><!-- row -->
+        </div><!-- col-lg-12 col-xs-12 id="border" -->
       </div><!-- row -->
 
       <div class="row">
