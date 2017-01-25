@@ -197,6 +197,11 @@
     background-color: #ffffff;
     padding: 0px 0px;
   }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
 }
 
 /* Landscape */
