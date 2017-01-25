@@ -39,7 +39,7 @@
     color: #2d1263;
     list-style: none !important;
     text-align: left;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: bold;
   }
   #more_space{
@@ -52,6 +52,9 @@
   .background-section{
     /*width: 889px;*/
     background-color: #ffffff;
+  }
+  .indent{
+    margin-left:15px;
   }
   @font-face {
     font-family: 'Gotham';
