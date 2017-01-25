@@ -297,11 +297,11 @@
       background-color: #ffffff;
   }
   .partial_list {
-      float: none !important;
-      font-size: 21px;
-      margin-right: 70px;
-      margin-bottom: 25px;
-      font-family: 'Gotham';
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
   }
   #border {
     border-radius: none !important;
