@@ -78,6 +78,14 @@
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
+    #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
      
 }
 
@@ -106,7 +114,14 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-     
+     #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
 }
 
 /* Landscape */
@@ -134,7 +149,14 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
-    
+    #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
 }
 
 /* Landscape */
