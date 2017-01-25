@@ -185,6 +185,19 @@
       margin-bottom: 25px;
       font-family: 'Gotham';
   }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+}
 
 /* Landscape */
 @media only screen 
