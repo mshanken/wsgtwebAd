@@ -1,0 +1,331 @@
+ #border{
+    border-radius: 5px;
+    border: 3px solid #2d1263;
+    width: 1120px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    box-shadow: 5px 8px 5px #888888;
+  }
+  #white_background{
+    background-color: #ffffff;
+    padding:10px 120px;
+  }
+  .headline_1{
+    font-size: 27px;
+    font-family: 'Gotham';
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 15px;
+    color: #9e1c51;
+  }
+  .headline_2{
+    color: #2d1263;
+    font-size: 58px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -54px;
+    background-color: #ffffff;
+    margin-left: 0px;
+  }
+  .partial_list{
+    float: right;
+    font-size: 21px;
+    margin-right: 70px;
+    margin-bottom: 25px;
+    font-family: 'Gotham'; 
+  }
+  ul, li{
+    color: #2d1263;
+    list-style: none !important;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  #more_space{
+    margin-bottom: 35px;
+  }
+  #home{
+    width: 500px;
+    margin: 0 auto;
+  }
+  .background-section{
+    /*width: 889px;*/
+    background-color: #ffffff;
+  }
+  .indent{
+    margin-left:20px;
+  }
+  @font-face {
+    font-family: 'Gotham';
+    src: url('fonts/Gotham-Medium.eot'); /* IE9 Compat Modes */
+    src: url('fonts/Gotham-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Gotham-Medium.woff') format('woff'), /* Modern Browsers */
+       url('fonts/Gotham-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/Gotham-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+     font-weight: 400;
+     font-style: normal;
+   }
+
+/* ----------- iPhone 4 and 4S ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 320px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    
+  }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    #border{
+      border-radius: none !important;
+      border: none !important;
+      width: none !important;
+      margin: 0 auto;
+      margin-bottom: 0px;
+      box-shadow: none !important;
+  }
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 320px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    
+  }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+    #border{
+      border-radius: none !important;
+      border: none !important;
+      width: none !important;
+      margin: 0 auto;
+      margin-bottom: 0px;
+      box-shadow: none !important;
+  }
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 375px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    
+  }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+    
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    
+  }
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+   
+}
+    }
