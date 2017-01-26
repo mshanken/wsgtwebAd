@@ -410,13 +410,13 @@
     margin-bottom: 25px;
     font-family: 'Gotham';
   }
-  #border {
-    border-radius: none !important;
-    border: none !important;
-    margin: 0 auto;
-    margin-bottom: 0px;
-    box-shadow: none !important;
+  #border{
+    border-radius: 5px;
+    border: 3px solid #2d1263 !important;
     width: 414px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    box-shadow: 5px 8px 5px #888888;
   }
   #white_background {
     background-color: #ffffff;
@@ -466,13 +466,13 @@
     margin-bottom: 25px;
     font-family: 'Gotham';
   }
-  #border {
-    border-radius: none !important;
-    border: none !important;
-    margin: 0 auto;
-    margin-bottom: 0px;
-    box-shadow: none !important;
+  #border{
+    border-radius: 5px;
+    border: 3px solid #2d1263;
     width: 414px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    box-shadow: 5px 8px 5px #888888;
   }
   #white_background {
     background-color: #ffffff;
