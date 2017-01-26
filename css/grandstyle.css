@@ -134,7 +134,49 @@
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
-
+    #border{
+      border-radius: none !important;
+      border: none !important;
+      width: none !important;
+      margin: 0 auto;
+      margin-bottom: 0px;
+      box-shadow: none !important;
+  }
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 320px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    margin-left:20px;
+  }
 }
 
 /* Portrait */
@@ -204,7 +246,49 @@
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-
+     #border{
+      border-radius: none !important;
+      border: none !important;
+      width: none !important;
+      margin: 0 auto;
+      margin-bottom: 0px;
+      box-shadow: none !important;
+  }
+  .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 375px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    margin-left:20px;
+  }
 }
 
 /* Portrait */
@@ -274,7 +358,41 @@
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-
+    .headline_2 {
+      color: #2d1263;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 0px;
+      background-color: #ffffff;
+  }
+  .partial_list {
+    float: none !important;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+    font-family: 'Gotham';
+  }
+  #border {
+    border-radius: none !important;
+    border: none !important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    box-shadow: none !important;
+    width: 414px;
+  }
+  #white_background {
+    background-color: #ffffff;
+    padding: 0px 0px;
+  }
+  #glass_image{
+    width: 200px;
+    margin-left: 57px;
+    margin-top: 40px;
+  }
+  .indent{
+    margin-left:20px;
+  }
 }
 
 /* Portrait */
