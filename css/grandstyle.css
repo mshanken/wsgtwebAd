@@ -151,6 +151,9 @@
     padding-right: 0px;
     margin-left: 20px;
   }
+  #mobile_footer{
+    margin-left: 0px;
+  }
 }
 
 /* Landscape */
@@ -222,8 +225,7 @@
     text-align: right;
   }
   #mobile_footer{
-    padding-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 
@@ -286,8 +288,7 @@
     text-align: right;
   }
   #mobile_footer{
-    padding-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 /* Landscape */
@@ -358,8 +359,7 @@
     text-align: right;
   }
   #mobile_footer{
-    padding-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 /* Portrait */
@@ -421,8 +421,7 @@
     text-align: right;
   }
   #mobile_footer{
-    padding-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 
@@ -506,8 +505,7 @@
     text-align: right;
   }
    #mobile_footer{
-    padding-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 }
 
