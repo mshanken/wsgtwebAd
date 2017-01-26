@@ -56,6 +56,21 @@
   .indent{
     margin-left:20px;
   }
+  .grandtour_copy{
+    color: #9e1c51;
+    font-family: Georgia;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .editor{
+    color: #9e1c51;
+    font-family: Georgia;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: right;
+  }
   @font-face {
     font-family: 'Gotham';
     src: url('fonts/Gotham-Medium.eot'); /* IE9 Compat Modes */
@@ -387,8 +402,8 @@
   }
   #glass_image{
     width: 200px;
-    margin-left: 57px;
-    margin-top: 40px;
+    /*margin-left: 57px;
+    margin-top: 40px;*/
   }
   .indent{
     margin-left:20px;
