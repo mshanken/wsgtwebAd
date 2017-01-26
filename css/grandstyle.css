@@ -42,6 +42,7 @@
           text-align: left;
           font-size: 17px;
           font-weight: bold;
+          margin-bottom: 0px;
         }
         #more_space{
           margin-bottom: 35px;
@@ -183,15 +184,7 @@
             margin-bottom: 25px;
             font-family: 'Gotham';
         }
-        ul, li{
-          color: #2d1263;
-          list-style: none !important;
-          text-align: left;
-          font-size: 17px;
-          font-weight: bold;
-          margin-bottom:0px !important;
-        }
-
+      }
       /* Landscape */
       @media only screen 
         and (min-device-width: 414px) 
