@@ -135,10 +135,17 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 24px;
+    font-size: 14px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
+  }
+  .editor{
+    color: #9e1c51;
+    font-family: Georgia;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: right;
   }
   #mobile_footer{
     padding-right: 0px;
@@ -202,7 +209,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -210,7 +217,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     text-align: right;
   }
@@ -266,7 +273,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -274,7 +281,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     text-align: right;
   }
@@ -340,7 +347,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -348,7 +355,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     text-align: right;
   }
@@ -404,7 +411,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -412,7 +419,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     text-align: right;
   }
@@ -489,7 +496,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -497,7 +504,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     text-align: right;
   }
@@ -536,9 +543,9 @@
   }
   .partial_list {
     float: none !important;
-    font-size: 17px;
+    font-size: 20px;
     margin-left: 60px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     font-family: 'Gotham';
   }
   #border{
@@ -561,7 +568,7 @@
   .grandtour_copy{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 600;
     margin-left: 30px;
     margin-top: 20px;
@@ -569,7 +576,7 @@
   .editor{
     color: #9e1c51;
     font-family: Georgia;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 600;
     text-align: right;
   }
