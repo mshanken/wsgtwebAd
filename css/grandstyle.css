@@ -1,7 +1,7 @@
  #border{
     border-radius: 5px;
     border: 3px solid #2d1263;
-    width: 1120px;
+    /*width: 1120px;*/
     margin: 0 auto;
     margin-bottom: 25px;
     box-shadow: 5px 8px 5px #888888;
@@ -95,6 +95,10 @@
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
   .headline_2 {
       color: #2d1263;
       font-size: 20px;
@@ -146,6 +150,10 @@
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
     #border{
       border-radius: none !important;
       border: none !important;
@@ -195,6 +203,10 @@
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
     #border{
       border-radius: none !important;
       border: none !important;
@@ -254,6 +266,10 @@
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
      #border{
       border-radius: none !important;
       border: none !important;
@@ -303,6 +319,10 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
     #border{
       border-radius: none !important;
       border: none !important;
@@ -362,6 +382,10 @@
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
     .headline_1{
       font-size: 27px;
       font-family: 'Gotham';
@@ -414,6 +438,10 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
+    #home {
+    width: 100%;
+    margin: 0 auto;
+  }
     .headline_1{
     font-size: 27px;
     font-family: 'Gotham';
@@ -455,6 +483,14 @@
   }
   .indent{
     margin-left:20px;
+  }
+  .grandtour_copy{
+    color: #9e1c51;
+    font-family: Georgia;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 20px;
   }
 }
 
