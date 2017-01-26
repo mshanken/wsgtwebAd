@@ -117,7 +117,7 @@
   #border{
     border-radius: 5px !important;
     border: 3px solid #2d1263 !important;
-    width: 320px !important;
+    width: 296px !important;
     margin: 0 auto !important;
     margin-bottom: 25px !important;
     box-shadow: 5px 8px 5px #888888 !important;
@@ -191,7 +191,7 @@
   #border{
     border-radius: 5px !important;
     border: 3px solid #2d1263 !important;
-    width: 320px !important;
+    width: 296px !important;
     margin: 0 auto !important;
     margin-bottom: 25px !important;
     box-shadow: 5px 8px 5px #888888 !important;
@@ -255,7 +255,7 @@
    #border{
     border-radius: 5px !important;
     border: 3px solid #2d1263 !important;
-    width: 320px !important;
+    width: 296px !important;
     margin: 0 auto !important;
     margin-bottom: 25px !important;
     box-shadow: 5px 8px 5px #888888 !important;
@@ -290,7 +290,6 @@
     margin-left: 20px;
   }
 }
-
 /* Landscape */
 @media only screen 
   and (min-device-width: 320px) 
@@ -299,7 +298,6 @@
   and (orientation: landscape) {
 
 }
-
 /* ----------- iPhone 6 ----------- */
 
 /* Portrait and Landscape */
@@ -314,7 +312,7 @@
      #border{
     border-radius: 5px !important;
     border: 3px solid #2d1263 !important;
-    width: 375px !important;
+    width: 351px !important;
     margin: 0 auto !important;
     margin-bottom: 25px !important;
     box-shadow: 5px 8px 5px #888888 !important;
@@ -364,7 +362,6 @@
     margin-left: 20px;
   }
 }
-
 /* Portrait */
 @media only screen 
   and (min-device-width: 375px) 
@@ -378,7 +375,7 @@
     #border{
     border-radius: 5px !important;
     border: 3px solid #2d1263 !important;
-    width: 375px !important;
+    width: 351px !important;
     margin: 0 auto !important;
     margin-bottom: 25px !important;
     box-shadow: 5px 8px 5px #888888 !important;
