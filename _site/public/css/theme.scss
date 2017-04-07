@@ -31,15 +31,17 @@
 h1 { color: #2d1263; font-size: 3.15rem; margin-top: -71px; }
 h1 span{ background: #fff; }
 h1 span:after, h1 span:before{ content: '\00A0\00A0'}
-h2 { color: #9e1c51; font-size: 1.4rem; margin-bottom: 70px; }
+h2 { color: #9e1c51; font-size: 1.4rem; }
+.under-h2{ margin-bottom: 70px; }
+
 .wine-ries p, .wine-ries p a{ margin-bottom: 0; color: #2d1263; }
 .blockquote { color: #9e1c51; font-family: $font-family-serif; font-weight: 700; border-left:none; }
 
 @include media-breakpoint-up(lg) {
 	h1 { margin-top: -45px; }
-	h2 { margin-bottom: 10px; }
+	.under-h2 { margin-bottom: 45px; }
 }
 @media (max-width: 457px) {
 	h1 { margin-top: -104px; }
-	h2 { margin-bottom: 104px; }
+	.under-h2 { margin-bottom: 104px; }
 }

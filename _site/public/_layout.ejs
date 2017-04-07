@@ -26,6 +26,14 @@
 		
 		<main id="main" class="container main" role="main">
 			<%- yield %>
+
+			<div class="row 
+			<% if ( current.path[0] !== "wines" && current.source !== "404" && current.source !== "wineries") { %>
+				no-gutters
+			<% } %>
+				tickets-box">
+				<%- partial("_themes/default/_tickets") %>
+			</div>
 		</main>
 		
 		<%- partial("_themes/default/_footer") %>
