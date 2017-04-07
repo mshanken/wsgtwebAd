@@ -1,0 +1,23 @@
+{
+	"index": {
+		"title": "Wine Spectator Grand Tour 2017",
+		"site_tagline":"3 cities. 3 spectacular wine tastings",
+		"description": "Wine Spectator Grand Tour 2017",
+    	"keywords": "wine spectator, grand tour, 3 cities. 3 spectacular wine tastings, buy tickets now at the early bird price"
+	},
+	"wines": {
+		"title": "Wines | Wine Spectator Grand Tour 2017",
+		"site_tagline":"3 cities. 3 spectacular wine tastings",
+		"description": "Wine Spectator Grand Tour 2017 - Wines",
+    	"keywords": "wine spectator, grand tour, 3 cities. 3 spectacular wine tastings, buy tickets now at the early bird price, participating wineries, wine list, grand tour wines"
+	},
+	"wineries": {
+		"title": "Wineries | Wine Spectator Grand Tour 2017",
+		"site_tagline":"3 cities. 3 spectacular wine tastings",
+		"description": "Wine Spectator Grand Tour 2017 - Wineries",
+    	"keywords": "wine spectator, grand tour, 3 cities. 3 spectacular wine tastings, buy tickets now at the early bird price, participating wineries, wine list, grand tour wineries"
+	},
+	"sitemap": {
+		"layout": false
+	}
+}
