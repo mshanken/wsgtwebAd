@@ -2,11 +2,11 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="images/smalltile.png"/>
-      <square150x150logo src="images/mediumtile.png"/>
-      <wide310x150logo src="images/widetile.png"/>
-      <square310x310logo src="images/largetile.png"/>
-      <TileColor>#009900</TileColor>
+      <square70x70logo src="http://grandtour.winespectator.com/mstile-70x70.png"/>
+      <square150x150logo src="http://grandtour.winespectator.com/mstile-150x150.png"/>
+      <square310x310logo src="http://grandtour.winespectator.com/mstile-310x310.png"/>
+      <wide310x150logo src="http://grandtour.winespectator.com/mstile-310x150.png"/>
+      <TileColor>#DD0016</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
