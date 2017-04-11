@@ -1,0 +1,43 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+	<head>
+		<%- partial("_themes/default/partials/_headingtags") %>
+		<%- partial("_themes/default/partials/_styles") %>
+	    <% if (ga) { %>
+	    	<%- partial("_themes/default/partials/_ga") %>
+	    <% 	} %>
+	
+		<!--[if lt IE 9]>
+	      <script src="/js/vendor/html5shiv.js"></script>
+	      <script src="/js/vendor/respond.src.js"></script>
+	    <![endif]-->
+		<script src="/js/vendor/modernizr.js"></script>
+		
+	</head>
+	
+	<body>
+		
+		<% if ( current.path[0] === "wines" || current.source === "404" || current.source === "wineries") { %>
+      		<%- partial("_themes/default/_header") %>
+  		<% } %>
+		
+		<main id="main" class="container main" role="main">
+			<%- yield %>
+
+			<div class="row 
+			<% if ( current.path[0] !== "wines" && current.source !== "404" && current.source !== "wineries") { %>
+				no-gutters
+			<% } %>
+				tickets-box">
+				<%- partial("_themes/default/_tickets") %>
+			</div>
+		</main>
+		
+		<%- partial("_themes/default/_footer") %>
+		<%- partial("_themes/default/partials/_scripts") %>
+	</body>
+</html>
+    	
