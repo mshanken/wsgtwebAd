@@ -6,6 +6,9 @@
 	        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 	        // Change "addyoursite" the name of your web site
 	        ga('create', '<%- analytics %>', 'addyoursite');
+	        ga('require', 'linker');
+			ga('linker:autoLink', ['etix.com','www.etix.com'], true);
+			ga('require', 'displayfeatures');
 	        ga('send', {"hitType":"pageview","page":"<%- current.source %>", "section":"<%- current.path[0] %>"});
 	    </script>
 	    <!-- End Google Analytics -->
