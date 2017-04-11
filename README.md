@@ -1,6 +1,6 @@
-# Wine Spectator Gran Tour
+# Wine Spectator Grand Tour
 
-An Promotional event site, please read below for updates.
+An Promotional event site, please read below on how to update and generate static content from this project.
 
 # Harpjs Boilerplate
 
