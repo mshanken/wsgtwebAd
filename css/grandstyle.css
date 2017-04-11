@@ -89,6 +89,10 @@
     font-weight: 600;
     text-align: right;
   }
+  #wine_image{
+    margin-top: 25px;
+    margin-left: 33px;
+  }
   @font-face {
     font-family: 'Gotham';
     src: url('fonts/Gotham-Medium.eot'); /* IE9 Compat Modes */
@@ -122,6 +126,12 @@
     margin-bottom: 45px;
     margin-top: 0px;
     color: #9e1c51;
+  }
+  #wine_image{
+    margin-right: 33px;
+  }
+  .wine_adjustment{
+    padding-left: 0px;
   }
 }
 /* Portrait */
@@ -188,6 +198,12 @@
   }
   #mobile_footer{
     margin-left: 0px;
+  }
+  #wine_image{
+    margin-right: 33px;
+  }
+  .wine_adjustment{
+    padding-left: 0px !important;
   }
 }
 
@@ -262,6 +278,9 @@
   #mobile_footer{
     margin-left: 0px;
   }
+  #wine_image{
+    margin-right: 33px;
+  }
 }
 
 /* Portrait */
@@ -323,6 +342,9 @@
     text-align: right;
   }
   #mobile_footer{
+    margin-left: 0px;
+  }
+  #wine_image{
     margin-left: 0px;
   }
 }
@@ -396,6 +418,9 @@
   #mobile_footer{
     margin-left: 0px;
   }
+  #wine_image{
+   margin-left: 0px;
+  }
 }
 /* Portrait */
 @media only screen 
@@ -457,6 +482,9 @@
   }
   #mobile_footer{
     margin-left: 0px;
+  }
+  #wine_image{
+    margin-left: 10px;
   }
 }
 
@@ -542,6 +570,9 @@
    #mobile_footer{
     margin-left: 0px;
   }
+  #wine_image{
+    margin-left: 10px;
+  }
 }
 
 /* Portrait */
@@ -612,6 +643,9 @@
   }
   #mobile_footer{
     margin-left: 0px;
+  }
+  #wine_image{
+    margin: 0 auto;
   }
 }
 
