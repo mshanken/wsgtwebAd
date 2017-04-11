@@ -1,3 +1,7 @@
+# Wine Spectator Gran Tour
+
+An Promotional event site, please read below for updates.
+
 # Harpjs Boilerplate
 
 This is a starter-kit for building a static web site dynamically. Perfect for small promotional or event web-sites.
