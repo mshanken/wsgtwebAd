@@ -4,7 +4,7 @@ An Promotional event site, please read below on how to update and generate stati
 
 # Harpjs Boilerplate
 
-1. git clone git@github.com:mshanken/wsgtwebAd.git
+1. clone the repo locally ```git clone git@github.com:mshanken/wsgtwebAd.git```
 
 2. cd into the project.
 
@@ -15,7 +15,7 @@ An Promotional event site, please read below on how to update and generate stati
 
 ## Avialable commands.
 
-```docker-compose up -d``` builds the project in a docker container.
+```docker-compose up -d``` builds the project in a docker container. Once that's done. Type this URL ```http://localhost:9000/``` in your browser you have a web site running.
 
 ```docker-compose exec web npm run browsersync``` starts browser-sync [http://localhost:3000/](http://localhost:3000/) hit ```Ctrl + P and Ctrl + Q``` to detach.
 
