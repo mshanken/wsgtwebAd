@@ -2,7 +2,7 @@
 
 An Promotional event site, please read below on how to update and generate static content for this project.
 
-# Harpjs Boilerplate
+# Harpjs Boilerplate Tool
 
 1. clone the repo locally ```git clone git@github.com:mshanken/wsgtwebAd.git```
 
