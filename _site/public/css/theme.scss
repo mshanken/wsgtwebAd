@@ -65,6 +65,7 @@ hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 8
 .tickets-box, .list-box { background-color: #9e1c51; }
 .list-box { margin-right: 0; margin-left: 0}
 .events-list p, .tickets-box p, .list-box p, .list-box dl { color: #fff; font-size: 1.2rem; }
+.list-box dl, .list-box dd{ margin-bottom: 0; }
 .list-box p.display-3 { font-size: 3rem; font-weight: bold; }
 .events-list p a{ color: #ffed76; font-size: 0.8rem; }
 .tickets-box p a{ color: #fff; font-size: 1.4rem; }
