@@ -53,13 +53,15 @@
 // Custom style starts here
 // --------------------------------------------------
 // Index
+.header .row div { background-image: url('/images/WS_GrandTour17-underLogo2.png'); height: 91px; line-height: 91px; background-position: 50% 50% }
 h1 { color: #2d1263; font-size: 3.15rem; margin-top: -71px; }
 h1 span{ background: #fff; }
 h1 span:after, h1 span:before{ content: '\00A0\00A0'}
 h2 { color: #9e1c51; font-size: 1.4rem; }
 hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 80%}
-.earlyBox { background-color: #2d1263; border-left: 15px solid #fff; border-right: 15px solid #fff; }
-.earlyBox a { text-decoration: none; color: #fff; }
+.header .row div, .earlyBox { border-left: 15px solid #fff; border-right: 15px solid #fff; }
+.earlyBox { background-color: #2d1263; }
+.header .row div a, .earlyBox a { text-decoration: none; color: #fff; }
 .main-blurb h1{ margin-top: 20px; }
 .main-blurb p, .main-blurb p.top strong{ color: #9e1c51; font-size: 2.1rem; }
 .main-blurb p strong{ color: #2d1263; }
@@ -81,22 +83,22 @@ hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 8
 .blockquote { color: #9e1c51; font-family: $font-family-serif; font-weight: 700; border-left:none; }
 
 @include media-breakpoint-up(sm) {
-	.earlyBox a { font-size:1.2rem; }
+	.header .row div a, .earlyBox a { font-size:1.2rem; }
 }
 @include media-breakpoint-down(sm) {
 	h1, .h1 { font-size: 2.5rem; }
 	.main-blurb p, .main-blurb p.top strong{ font-size: 1.6rem; }
 }
 @include media-breakpoint-up(md) {
-	.earlyBox a { font-size:1.6rem; }
+	.header .row div a, .earlyBox a { font-size:1.6rem; }
 }
 @include media-breakpoint-up(lg) {
 	h1 { margin-top: -45px; }
 	.under-h2 { margin-bottom: 45px; }
-	.earlyBox a { font-size:2.2rem; }
+	.header .row div a, .earlyBox a { font-size:2.2rem; }
 }
 @include media-breakpoint-up(xl) {
-	.earlyBox a { font-size:2.4rem; }
+	.header .row div a, .earlyBox a { font-size:2.4rem; }
 }
 @media (max-width: 457px) {
 	h1 { margin-top: -104px; }
