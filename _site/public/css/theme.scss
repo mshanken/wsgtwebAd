@@ -70,7 +70,8 @@ hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 8
 .events-list { background-color: #2d1263; }
 .tickets-box, .list-box { background-color: #9e1c51; }
 .list-box { margin-right: 0; margin-left: 0}
-.events-list p, .tickets-box p, .list-box p, .list-box dl { color: #fff; font-size: 1.2rem; }
+.events-list p, .tickets-box p, .list-box p, .list-box dl,
+.events-list p a, .tickets-box p a, .list-box p a, .list-box dl a { color: #fff; font-size: 1.2rem; }
 .list-box dl, .list-box dd{ margin-bottom: 0; }
 .list-box p.display-3 { font-size: 3rem; font-weight: bold; }
 .events-list p a{ color: #ffed76; font-size: 0.8rem; }
@@ -83,6 +84,7 @@ hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 8
 
 .wine-ries p, .wine-ries p a{ margin-bottom: 0; color: #2d1263; }
 .blockquote { color: #9e1c51; font-family: $font-family-serif; font-weight: 700; border-left:none; }
+.reduced-lh{ line-height: 0.8rem; }
 
 @include media-breakpoint-up(sm) {
 	.header .row div a, .earlyBox a { font-size:1.2rem; }
