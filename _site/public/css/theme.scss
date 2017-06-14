@@ -53,7 +53,15 @@
 // Custom style starts here
 // --------------------------------------------------
 // Index
-.header .row div { background-image: url('/images/WS_GrandTour17-underLogo2.png'); height: 91px; line-height: 91px; background-position: 50% 50% }
+
+body { background-image: url(/images/WS_GrandTour_01_06072017.jpg); background-size: contain;}
+header, #header, .header { background-color: #6d1629; margin-top: 32px; border-top: 2px solid #fff; border-bottom: 2px solid #fff; }
+h1 { text-transform: uppercase; }
+p { font-size: 1.5rem; font-weight: 300; }
+@include media-breakpoint-up(lg) {
+	body{ background-size: cover; }
+}
+/* .header .row div { background-image: url('/images/WS_GrandTour17-underLogo2.png'); height: 91px; line-height: 91px; background-position: 50% 50% }
 h1 { color: #2d1263; font-size: 3.15rem; margin-top: -71px; }
 h1 span{ background: #fff; }
 h1 span:after, h1 span:before{ content: '\00A0\00A0'}
@@ -107,4 +115,4 @@ hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 8
 @media (max-width: 457px) {
 	h1 { margin-top: -104px; }
 	.under-h2 { margin-bottom: 104px; }
-}
+} */
