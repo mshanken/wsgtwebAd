@@ -86,40 +86,31 @@
 	
 	<body>
 		
-		
-      		
-		<header id="header" class="container header text-center" role="header">
-			<a href="/" class=""><img src="images/WS_GrandTour17-logo.gif" class="img-fluid" /></a>
+      	
+		<header id="header" class="container-fluid header text-center" role="header">
 			<div class="row">
 				<div class="col-12 text-center">
-					<a href="http://www.etix.com/ticket/o/3303/mshanken-communications-grand-tours#_ga=1.180622245.305196937.1476300686" target="_blank">BUY TICKETS NOW!</a>
+					<a href="/"><img src="images/WS_GrandTour_02_06072017.gif" class="img-fluid" alt="Wine Spectator's Grand Tour" /></a>
 				</div>
 			</div>
 		</header>
-  		
 		
 		<main id="main" class="container main" role="main">
 			<h1>404</h1><h3>Whoops. Looks like what you&#39;re looking for can&#39;t be found.</h3>
 
-			<div class="row 
-			
+			<!-- <div class="row 
+			<# % if ( current.path[0] !== "wines" && current.source !== "404" && current.source !== "wineries") { % #>
+				no-gutters
+			<#% } % #>
 				tickets-box">
-				
-	<div class="col-12 text-center">
-		<br>
-		<a href="http://www.etix.com/ticket/o/3303/mshanken-communications-grand-tours#_ga=1.180622245.305196937.1476300686" class=""><img src="images/WS_GrandTour17-tickets3.png" class="img-fluid" /></a>
-		<br><br>
-		<p class="text-center"><a href="mailto:Events@mshanken.com" target="_blank">Events@mshanken.com</a></p>
-		<p class="text-center small">A FULL REFUND IS AVAILABLE THROUGH APRIL 22, 2017. OTHERWISE THERE ARE NO REFUNDS, NO EXCHANGES.</p>
-	</div>
-
-			</div>
+				<# %- partial("_themes/default/_tickets") % #>
+			</div> -->
 		</main>
 		
 				
 		<footer id="footer" class="container footer" role="footer">
-			<p><br />&nbsp;</p>
-			<p>&copy; 2017 M. Shanken Communications, Inc.</p>
+			<p class="text-center"><a href="mailto:events@mshanken.com" target="_blank">Events@mshanken.com</a></p>
+			<p class="text-center"><small>&copy; 2017 M. Shanken Communications, Inc.</small></p>
 		</footer>
 		<!-- 
 			* TODO: You may also add all your script tags here
