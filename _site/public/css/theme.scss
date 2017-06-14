@@ -1,9 +1,3 @@
-/*!
- * Bootstrap v3.3.6 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-
 //
 // Load core variables and mixins
 // --------------------------------------------------
@@ -61,58 +55,3 @@ p { font-size: 1.5rem; font-weight: 300; }
 @include media-breakpoint-up(lg) {
 	body{ background-size: cover; }
 }
-/* .header .row div { background-image: url('/images/WS_GrandTour17-underLogo2.png'); height: 91px; line-height: 91px; background-position: 50% 50% }
-h1 { color: #2d1263; font-size: 3.15rem; margin-top: -71px; }
-h1 span{ background: #fff; }
-h1 span:after, h1 span:before{ content: '\00A0\00A0'}
-h2 { color: #9e1c51; font-size: 1.4rem; }
-h3{ color: #9e1c51; font-size: 2rem; margin-top: 2rem; margin-bottom: 1rem; }
-h4{ color: #a36d38;  margin-top: 1rem; margin-bottom: 1rem;}
-hr { border-top: 3px solid #fff; margin-right: auto; margin-left: auto; width: 80%}
-.header .row div, .earlyBox { border-left: 15px solid #fff; border-right: 15px solid #fff; }
-.earlyBox { background-color: #2d1263; }
-.header .row div a, .earlyBox a { text-decoration: none; color: #fff; }
-.main-blurb h1{ margin-top: 20px; }
-.main-blurb p, .main-blurb p.top strong{ color: #9e1c51; font-size: 2.1rem; }
-.main-blurb p strong{ color: #2d1263; }
-.events-list { background-color: #2d1263; }
-.tickets-box, .list-box { background-color: #9e1c51; }
-.list-box { margin-right: 0; margin-left: 0}
-.events-list p, .tickets-box p, .list-box p, .list-box dl,
-.events-list p a, .tickets-box p a, .list-box p a, .list-box dl a { color: #fff; font-size: 1.2rem; }
-.list-box dl, .list-box dd{ margin-bottom: 0; }
-.list-box p.display-3 { font-size: 3rem; font-weight: bold; }
-.events-list p a{ color: #ffed76; font-size: 0.8rem; }
-.tickets-box p a{ color: #fff; font-size: 1.4rem; }
-.tickets-box p.small{ font-size: 1rem; }
-// Wines
-.article{ border: 4px solid #2d1263; padding: 3px; }
-.article .article-d1{ border: 2px solid #2d1263; padding: 15px; }
-.under-h2{ margin-bottom: 70px; }
-
-.wine-ries p, .wine-ries p a{ margin-bottom: 0; color: #2d1263; }
-.blockquote { color: #9e1c51; font-family: $font-family-serif; font-weight: 700; border-left:none; }
-.reduced-lh{ line-height: 0.8rem; }
-
-@include media-breakpoint-up(sm) {
-	.header .row div a, .earlyBox a { font-size:1.2rem; }
-}
-@include media-breakpoint-down(sm) {
-	h1, .h1 { font-size: 2.5rem; }
-	.main-blurb p, .main-blurb p.top strong{ font-size: 1.6rem; }
-}
-@include media-breakpoint-up(md) {
-	.header .row div a, .earlyBox a { font-size:1.6rem; }
-}
-@include media-breakpoint-up(lg) {
-	h1 { margin-top: -45px; }
-	.under-h2 { margin-bottom: 45px; }
-	.header .row div a, .earlyBox a { font-size:2.2rem; }
-}
-@include media-breakpoint-up(xl) {
-	.header .row div a, .earlyBox a { font-size:2.4rem; }
-}
-@media (max-width: 457px) {
-	h1 { margin-top: -104px; }
-	.under-h2 { margin-bottom: 104px; }
-} */
