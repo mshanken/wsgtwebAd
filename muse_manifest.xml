@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1517350574885">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1517859891782">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3985477629" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4129431438" ref="index"/>
-    <file name="index.css" crc="337920044" ref="index"/>
+    <file name="master_a-master.css" crc="364228029" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="158799787" ref="index"/>
+    <file name="index.css" crc="307689052" ref="index"/>
     <file name="nomq_index.css" crc="173745933" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -56,5 +56,5 @@
     <file name="3pics-new237x310.png" crc="254470261" seo="true" ref="index"/>
     <file name="3pics-new320x419.png" crc="4210889311" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="373987987" seo="true" mt="1517350479090" redirect="true"/>
+  <file name="index.html" crc="41887096" seo="true" mt="1517859827377" redirect="true"/>
 </manifest>
