@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1518467683545">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1518546923006">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="4159751602" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="348947347" ref="index"/>
-    <file name="index.css" crc="374110921" ref="index"/>
-    <file name="nomq_index.css" crc="4210072241" ref="index"/>
+    <file name="master_a-master.css" crc="517857085" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="124544947" ref="index"/>
+    <file name="index.css" crc="414125101" ref="index"/>
+    <file name="nomq_index.css" crc="4227938185" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -55,6 +55,23 @@
     <file name="3pics-new288x377.png" crc="523059487" seo="true" ref="index"/>
     <file name="3pics-new237x310.png" crc="254470261" seo="true" ref="index"/>
     <file name="3pics-new320x419.png" crc="4210889311" seo="true" ref="index"/>
+    <file name="hotel-information.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage.jpg" crc="4292145531" seo="true" ref="index"/>
+    <file name="hotel-information400x380.png" crc="275714949" seo="true" ref="index"/>
+    <file name="hotel-information375x356.png" crc="275714949" seo="true" ref="index"/>
+    <file name="hotel-information332x316.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage316x316.jpg" crc="141705415" seo="true" ref="index"/>
+    <file name="hotel-information300x285.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage285x285.jpg" crc="329809781" seo="true" ref="index"/>
+    <file name="hotel-information284x269.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage269x269.jpg" crc="3912942531" seo="true" ref="index"/>
+    <file name="hotel-information251x238.png" crc="4192962224" seo="true" ref="index"/>
+    <file name="mirage238x238.jpg" crc="4049474614" seo="true" ref="index"/>
+    <file name="hotel-information354x336.png" crc="275714949" seo="true" ref="index"/>
+    <file name="hotel-information303x288.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage306x306.jpg" crc="397786199" seo="true" ref="index"/>
+    <file name="hotel-information280x266.png" crc="275714949" seo="true" ref="index"/>
+    <file name="mirage280x280.jpg" crc="40779534" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="487626028" seo="true" mt="1518467659874" redirect="true"/>
+  <file name="index.html" crc="283290312" seo="true" mt="1518546882653" redirect="true"/>
 </manifest>
