@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1518546923006">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1519162461741">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="517857085" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="124544947" ref="index"/>
-    <file name="index.css" crc="414125101" ref="index"/>
-    <file name="nomq_index.css" crc="4227938185" ref="index"/>
+    <file name="master_a-master.css" crc="208804667" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="92061740" ref="index"/>
+    <file name="index.css" crc="4257291983" ref="index"/>
+    <file name="nomq_index.css" crc="382848431" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -73,5 +73,5 @@
     <file name="hotel-information280x266.png" crc="275714949" seo="true" ref="index"/>
     <file name="mirage280x280.jpg" crc="40779534" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="283290312" seo="true" mt="1518546882653" redirect="true"/>
+  <file name="index.html" crc="3922955401" seo="true" mt="1519162388071" redirect="true"/>
 </manifest>
