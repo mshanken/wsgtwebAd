@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1519853051199">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1519854688835">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="216171602" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="141302458" ref="index"/>
-    <file name="index.css" crc="347370467" ref="index"/>
-    <file name="nomq_index.css" crc="4134461374" ref="index"/>
+    <file name="master_a-master.css" crc="119138320" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="90842858" ref="index"/>
+    <file name="index.css" crc="47609081" ref="index"/>
+    <file name="nomq_index.css" crc="4251402347" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -29,7 +29,6 @@
     <file name="dates.png" crc="38181845" seo="true" ref="index"/>
     <file name="taste200.png" crc="3877394575" seo="true" ref="index"/>
     <file name="5smiles.jpg" crc="233942593" seo="true" ref="index"/>
-    <file name="wineries.png" crc="4275610595" seo="true" ref="index"/>
     <file name="faqs2.png" crc="65071552" seo="true" ref="index"/>
     <file name="dates363x444.png" crc="38181845" seo="true" ref="index"/>
     <file name="dates340x416.png" crc="391153889" seo="true" ref="index"/>
@@ -72,6 +71,7 @@
     <file name="mirage306x306.jpg" crc="397786199" seo="true" ref="index"/>
     <file name="hotel-information280x266.png" crc="275714949" seo="true" ref="index"/>
     <file name="mirage280x280.jpg" crc="40779534" seo="true" ref="index"/>
+    <file name="wineries-crop-u2354.png" crc="454892753" ref="index"/>
   </folder>
-  <file name="index.html" crc="202174800" seo="true" mt="1519853018237" redirect="true"/>
+  <file name="index.html" crc="3771620707" seo="true" mt="1519854665229" redirect="true"/>
 </manifest>
