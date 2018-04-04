@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1522026963831">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1522864214287">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="145601910" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4109535961" ref="index"/>
-    <file name="index.css" crc="221794287" ref="index"/>
-    <file name="nomq_index.css" crc="71294982" ref="index"/>
+    <file name="master_a-master.css" crc="3800796880" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="359833413" ref="index"/>
+    <file name="index.css" crc="422403235" ref="index"/>
+    <file name="nomq_index.css" crc="166981385" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -74,5 +74,5 @@
     <file name="224.png" crc="283969102" seo="true" ref="index"/>
     <file name="224stacked.png" crc="277081692" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4289806071" seo="true" mt="1522026938215" redirect="true"/>
+  <file name="index.html" crc="4113004827" seo="true" mt="1522864191463" redirect="true"/>
 </manifest>
