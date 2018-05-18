@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1524758750273">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1526588067976">
   <folder name="assets">
     <file name="wsgt18_wash_mapltr.pdf" crc="381091619" seo="true" mt="1523288909000"/>
     <file name="wsgt18_nyc_mapltr.pdf" crc="397668266" seo="true" mt="1523288909000"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="3992858163" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="426965040" ref="index"/>
-    <file name="index.css" crc="4029416670" ref="index"/>
-    <file name="nomq_index.css" crc="3856550083" ref="index"/>
+    <file name="master_a-master.css" crc="114318021" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3912311948" ref="index"/>
+    <file name="index.css" crc="337918553" ref="index"/>
+    <file name="nomq_index.css" crc="3936765557" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -28,61 +28,28 @@
     <file name="hero768x416.jpg" crc="4204853512" seo="true" ref="index"/>
     <file name="hero667x361.jpg" crc="103763998" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="taste200.png" crc="3877394575" seo="true" ref="index"/>
-    <file name="5smiles.jpg" crc="233942593" seo="true" ref="index"/>
-    <file name="faqs2.png" crc="65071552" seo="true" ref="index"/>
-    <file name="5smiles850x345.jpg" crc="3891830169" seo="true" ref="index"/>
-    <file name="5smiles768x311.jpg" crc="86488981" seo="true" ref="index"/>
-    <file name="5smiles667x270.jpg" crc="522825576" seo="true" ref="index"/>
     <file name="hero568x308.jpg" crc="65575711" seo="true" ref="index"/>
-    <file name="5smiles568x230.jpg" crc="195581823" seo="true" ref="index"/>
     <file name="glass.jpg" crc="3818721758" seo="true" ref="index"/>
-    <file name="5smiles414x168.jpg" crc="3874420692" seo="true" ref="index"/>
-    <file name="5smiles375x152.jpg" crc="83218626" seo="true" ref="index"/>
-    <file name="5smiles320x130.jpg" crc="491752334" seo="true" ref="index"/>
     <file name="bk.jpg" crc="3779533501" ref="index"/>
-    <file name="3pics-new.png" crc="3759842822" seo="true" ref="index"/>
-    <file name="3pics-new314x411.png" crc="428098502" seo="true" ref="index"/>
-    <file name="3pics-new288x377.png" crc="523059487" seo="true" ref="index"/>
-    <file name="3pics-new237x310.png" crc="254470261" seo="true" ref="index"/>
-    <file name="3pics-new320x419.png" crc="4210889311" seo="true" ref="index"/>
-    <file name="hotel-information.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage.jpg" crc="4292145531" seo="true" ref="index"/>
-    <file name="hotel-information400x380.png" crc="275714949" seo="true" ref="index"/>
-    <file name="hotel-information375x356.png" crc="275714949" seo="true" ref="index"/>
-    <file name="hotel-information332x316.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage316x316.jpg" crc="141705415" seo="true" ref="index"/>
-    <file name="hotel-information300x285.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage285x285.jpg" crc="329809781" seo="true" ref="index"/>
-    <file name="hotel-information284x269.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage269x269.jpg" crc="3912942531" seo="true" ref="index"/>
-    <file name="hotel-information251x238.png" crc="4192962224" seo="true" ref="index"/>
-    <file name="mirage238x238.jpg" crc="4049474614" seo="true" ref="index"/>
-    <file name="hotel-information354x336.png" crc="275714949" seo="true" ref="index"/>
-    <file name="hotel-information303x288.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage306x306.jpg" crc="397786199" seo="true" ref="index"/>
-    <file name="hotel-information280x266.png" crc="275714949" seo="true" ref="index"/>
-    <file name="mirage280x280.jpg" crc="40779534" seo="true" ref="index"/>
-    <file name="224.png" crc="283969102" seo="true" ref="index"/>
-    <file name="224stacked.png" crc="277081692" seo="true" ref="index"/>
-    <file name="map.png" crc="299891887" seo="true" ref="index"/>
-    <file name="dc-map-button.jpg" crc="4201394960" seo="true" ref="index"/>
-    <file name="ny-map-button.jpg" crc="429574586" seo="true" ref="index"/>
-    <file name="lv-map-button.jpg" crc="496721460" seo="true" ref="index"/>
-    <file name="map-stacked.png" crc="4286540899" seo="true" ref="index"/>
-    <file name="dates-lv.png" crc="423859378" seo="true" ref="index"/>
-    <file name="dates-lv363x444.png" crc="423859378" seo="true" ref="index"/>
-    <file name="dates-lv340x416.png" crc="54712167" seo="true" ref="index"/>
-    <file name="dates-lv301x369.png" crc="4202416978" seo="true" ref="index"/>
-    <file name="dates-lv272x333.png" crc="533081880" seo="true" ref="index"/>
-    <file name="dates-lv237x290.png" crc="314082738" seo="true" ref="index"/>
-    <file name="dates-lv219x268.png" crc="4124042545" seo="true" ref="index"/>
-    <file name="dates-lv374x458.png" crc="423859378" seo="true" ref="index"/>
-    <file name="dates-lv339x415.png" crc="235173056" seo="true" ref="index"/>
-    <file name="dates-lv290x354.png" crc="4076920018" seo="true" ref="index"/>
-    <file name="buy-tix-lv100.png" crc="4267077062" seo="true" ref="index"/>
-    <file name="buy-tix-dc50.png" crc="4228882992" seo="true" ref="index"/>
-    <file name="buy-tix-ny50.png" crc="3874673488" seo="true" ref="index"/>
+    <file name="post-event-group.jpg" crc="514041943" seo="true" ref="index"/>
+    <file name="post-event-pour-stacked.png" crc="77922257" seo="true" ref="index"/>
+    <file name="logo-nywe.png" crc="135066561" seo="true" ref="index"/>
+    <file name="logo-nywe363x444.png" crc="135066561" seo="true" ref="index"/>
+    <file name="logo-nywe340x416.png" crc="3809619462" seo="true" ref="index"/>
+    <file name="logo-nywe301x369.png" crc="512685848" seo="true" ref="index"/>
+    <file name="post-event-group850x933.jpg" crc="4076097662" seo="true" ref="index"/>
+    <file name="logo-nywe272x333.png" crc="4018070701" seo="true" ref="index"/>
+    <file name="post-event-group768x843.jpg" crc="4095646942" seo="true" ref="index"/>
+    <file name="logo-nywe237x290.png" crc="448819744" seo="true" ref="index"/>
+    <file name="post-event-group667x733.jpg" crc="4035513292" seo="true" ref="index"/>
+    <file name="logo-nywe219x268.png" crc="3867633635" seo="true" ref="index"/>
+    <file name="post-event-group568x624.jpg" crc="270936643" seo="true" ref="index"/>
+    <file name="logo-nywe374x458.png" crc="135066561" seo="true" ref="index"/>
+    <file name="post-event-group414x455.jpg" crc="85422046" seo="true" ref="index"/>
+    <file name="logo-nywe339x415.png" crc="4087391646" seo="true" ref="index"/>
+    <file name="post-event-group375x412.jpg" crc="463693550" seo="true" ref="index"/>
+    <file name="logo-nywe290x354.png" crc="4025020582" seo="true" ref="index"/>
+    <file name="post-event-group320x352.jpg" crc="427662489" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="1892740" seo="true" mt="1524758728484" redirect="true"/>
+  <file name="index.html" crc="296877211" seo="true" mt="1526588033675" redirect="true"/>
 </manifest>
