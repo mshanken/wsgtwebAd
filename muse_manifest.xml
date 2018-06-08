@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1526588067976">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1528403624746">
   <folder name="assets">
     <file name="wsgt18_wash_mapltr.pdf" crc="381091619" seo="true" mt="1523288909000"/>
     <file name="wsgt18_nyc_mapltr.pdf" crc="397668266" seo="true" mt="1523288909000"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="114318021" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3912311948" ref="index"/>
-    <file name="index.css" crc="337918553" ref="index"/>
-    <file name="nomq_index.css" crc="3936765557" ref="index"/>
+    <file name="master_a-master.css" crc="248593469" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="7821453" ref="index"/>
+    <file name="index.css" crc="3959360212" ref="index"/>
+    <file name="nomq_index.css" crc="303605879" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -31,25 +31,49 @@
     <file name="hero568x308.jpg" crc="65575711" seo="true" ref="index"/>
     <file name="glass.jpg" crc="3818721758" seo="true" ref="index"/>
     <file name="bk.jpg" crc="3779533501" ref="index"/>
-    <file name="post-event-group.jpg" crc="514041943" seo="true" ref="index"/>
     <file name="post-event-pour-stacked.png" crc="77922257" seo="true" ref="index"/>
     <file name="logo-nywe.png" crc="135066561" seo="true" ref="index"/>
     <file name="logo-nywe363x444.png" crc="135066561" seo="true" ref="index"/>
     <file name="logo-nywe340x416.png" crc="3809619462" seo="true" ref="index"/>
     <file name="logo-nywe301x369.png" crc="512685848" seo="true" ref="index"/>
-    <file name="post-event-group850x933.jpg" crc="4076097662" seo="true" ref="index"/>
     <file name="logo-nywe272x333.png" crc="4018070701" seo="true" ref="index"/>
-    <file name="post-event-group768x843.jpg" crc="4095646942" seo="true" ref="index"/>
     <file name="logo-nywe237x290.png" crc="448819744" seo="true" ref="index"/>
-    <file name="post-event-group667x733.jpg" crc="4035513292" seo="true" ref="index"/>
     <file name="logo-nywe219x268.png" crc="3867633635" seo="true" ref="index"/>
-    <file name="post-event-group568x624.jpg" crc="270936643" seo="true" ref="index"/>
     <file name="logo-nywe374x458.png" crc="135066561" seo="true" ref="index"/>
-    <file name="post-event-group414x455.jpg" crc="85422046" seo="true" ref="index"/>
     <file name="logo-nywe339x415.png" crc="4087391646" seo="true" ref="index"/>
-    <file name="post-event-group375x412.jpg" crc="463693550" seo="true" ref="index"/>
     <file name="logo-nywe290x354.png" crc="4025020582" seo="true" ref="index"/>
-    <file name="post-event-group320x352.jpg" crc="427662489" seo="true" ref="index"/>
+    <file name="ladies.jpg" crc="48169349" seo="true" ref="index"/>
+    <file name="pour.jpg" crc="4136888961" seo="true" ref="index"/>
+    <file name="2guys.jpg" crc="4070081623" seo="true" ref="index"/>
+    <file name="couple.jpg" crc="228701567" seo="true" ref="index"/>
+    <file name="logo-nywe321x392.png" crc="269244329" seo="true" ref="index"/>
+    <file name="3.jpg" crc="3945911338" seo="true" ref="index"/>
+    <file name="3-crop-u6444.jpg" crc="4117815753" ref="index"/>
+    <file name="ladies-new.jpg" crc="4282145406" seo="true" ref="index"/>
+    <file name="pour-new.jpg" crc="3814893699" seo="true" ref="index"/>
+    <file name="2guys-new.jpg" crc="3941270038" seo="true" ref="index"/>
+    <file name="3-new.jpg" crc="106626611" seo="true" ref="index"/>
+    <file name="couple-new.jpg" crc="9505995" seo="true" ref="index"/>
+    <file name="ladies-new464x452.jpg" crc="209338293" seo="true" ref="index"/>
+    <file name="pour-new464x318.jpg" crc="178900528" seo="true" ref="index"/>
+    <file name="2guys-new377x376.jpg" crc="4066295331" seo="true" ref="index"/>
+    <file name="3-new377x257.jpg" crc="323473903" seo="true" ref="index"/>
+    <file name="couple-new377x402.jpg" crc="37309904" seo="true" ref="index"/>
+    <file name="ladies-new419x408.jpg" crc="3882474368" seo="true" ref="index"/>
+    <file name="pour-new419x287.jpg" crc="120044766" seo="true" ref="index"/>
+    <file name="2guys-new341x340.jpg" crc="70135363" seo="true" ref="index"/>
+    <file name="3-new341x232.jpg" crc="184434910" seo="true" ref="index"/>
+    <file name="couple-new341x363.jpg" crc="4252380659" seo="true" ref="index"/>
+    <file name="ladies-new364x355.jpg" crc="4039547441" seo="true" ref="index"/>
+    <file name="pour-new364x250.jpg" crc="471747216" seo="true" ref="index"/>
+    <file name="2guys-new296x295.jpg" crc="287138485" seo="true" ref="index"/>
+    <file name="3-new296x202.jpg" crc="4094018768" seo="true" ref="index"/>
+    <file name="couple-new296x316.jpg" crc="96551254" seo="true" ref="index"/>
+    <file name="ladies-new310x302.jpg" crc="4146011216" seo="true" ref="index"/>
+    <file name="pour-new310x213.jpg" crc="259119176" seo="true" ref="index"/>
+    <file name="2guys-new252x251.jpg" crc="256649384" seo="true" ref="index"/>
+    <file name="3-new252x172.jpg" crc="3838912551" seo="true" ref="index"/>
+    <file name="couple-new252x269.jpg" crc="149967283" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="296877211" seo="true" mt="1526588033675" redirect="true"/>
+  <file name="index.html" crc="3763316378" seo="true" mt="1528403602367" redirect="true"/>
 </manifest>
