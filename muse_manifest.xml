@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1528403624746">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1539714491141">
   <folder name="assets">
     <file name="wsgt18_wash_mapltr.pdf" crc="381091619" seo="true" mt="1523288909000"/>
     <file name="wsgt18_nyc_mapltr.pdf" crc="397668266" seo="true" mt="1523288909000"/>
@@ -6,9 +6,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="248593469" ref="index"/>
+    <file name="master_a-master.css" crc="410221721" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="7821453" ref="index"/>
-    <file name="index.css" crc="3959360212" ref="index"/>
+    <file name="index.css" crc="3829772580" ref="index"/>
     <file name="nomq_index.css" crc="303605879" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -32,21 +32,10 @@
     <file name="glass.jpg" crc="3818721758" seo="true" ref="index"/>
     <file name="bk.jpg" crc="3779533501" ref="index"/>
     <file name="post-event-pour-stacked.png" crc="77922257" seo="true" ref="index"/>
-    <file name="logo-nywe.png" crc="135066561" seo="true" ref="index"/>
-    <file name="logo-nywe363x444.png" crc="135066561" seo="true" ref="index"/>
-    <file name="logo-nywe340x416.png" crc="3809619462" seo="true" ref="index"/>
-    <file name="logo-nywe301x369.png" crc="512685848" seo="true" ref="index"/>
-    <file name="logo-nywe272x333.png" crc="4018070701" seo="true" ref="index"/>
-    <file name="logo-nywe237x290.png" crc="448819744" seo="true" ref="index"/>
-    <file name="logo-nywe219x268.png" crc="3867633635" seo="true" ref="index"/>
-    <file name="logo-nywe374x458.png" crc="135066561" seo="true" ref="index"/>
-    <file name="logo-nywe339x415.png" crc="4087391646" seo="true" ref="index"/>
-    <file name="logo-nywe290x354.png" crc="4025020582" seo="true" ref="index"/>
     <file name="ladies.jpg" crc="48169349" seo="true" ref="index"/>
     <file name="pour.jpg" crc="4136888961" seo="true" ref="index"/>
     <file name="2guys.jpg" crc="4070081623" seo="true" ref="index"/>
     <file name="couple.jpg" crc="228701567" seo="true" ref="index"/>
-    <file name="logo-nywe321x392.png" crc="269244329" seo="true" ref="index"/>
     <file name="3.jpg" crc="3945911338" seo="true" ref="index"/>
     <file name="3-crop-u6444.jpg" crc="4117815753" ref="index"/>
     <file name="ladies-new.jpg" crc="4282145406" seo="true" ref="index"/>
@@ -74,6 +63,17 @@
     <file name="2guys-new252x251.jpg" crc="256649384" seo="true" ref="index"/>
     <file name="3-new252x172.jpg" crc="3838912551" seo="true" ref="index"/>
     <file name="couple-new252x269.jpg" crc="149967283" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019.png" crc="67088283" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019363x444.png" crc="67088283" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019340x416.png" crc="344973362" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019321x392.png" crc="4253242713" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019301x369.png" crc="222236130" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019272x333.png" crc="3769348502" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019237x290.png" crc="42167887" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019219x268.png" crc="467734836" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019374x458.png" crc="67088283" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019339x415.png" crc="4139688918" seo="true" ref="index"/>
+    <file name="logo-nywe-std2019290x354.png" crc="386696353" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3763316378" seo="true" mt="1528403602367" redirect="true"/>
+  <file name="index.html" crc="278042119" seo="true" mt="1539714468109" redirect="true"/>
 </manifest>
