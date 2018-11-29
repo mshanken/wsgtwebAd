@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1539714491141">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour.com" resolutions="1x" timestamp="1543521548195">
   <folder name="assets">
     <file name="wsgt18_wash_mapltr.pdf" crc="381091619" seo="true" mt="1523288909000"/>
     <file name="wsgt18_nyc_mapltr.pdf" crc="397668266" seo="true" mt="1523288909000"/>
@@ -6,9 +6,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-master.css" crc="410221721" ref="index"/>
+    <file name="master_a-master.css" crc="4083129638" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="7821453" ref="index"/>
-    <file name="index.css" crc="3829772580" ref="index"/>
+    <file name="index.css" crc="3766752268" ref="index"/>
     <file name="nomq_index.css" crc="303605879" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -75,5 +75,5 @@
     <file name="logo-nywe-std2019339x415.png" crc="4139688918" seo="true" ref="index"/>
     <file name="logo-nywe-std2019290x354.png" crc="386696353" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="278042119" seo="true" mt="1539714468109" redirect="true"/>
+  <file name="index.html" crc="7829008" seo="true" mt="1543521522761" redirect="true"/>
 </manifest>
