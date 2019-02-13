@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1549984122594">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1550078974743">
   <folder name="css">
     <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="31351403" ref="index:2018-wine-list:wineries"/>
+    <file name="master_a-master.css" crc="391737273" ref="index:2018-wine-list:wineries"/>
     <file name="nomq_preview_master_a-master.css" crc="199937713" ref="index:2018-wine-list:wineries"/>
     <file name="index.css" crc="154839357" ref="index"/>
     <file name="nomq_index.css" crc="448697506" ref="index"/>
     <file name="2018-wine-list.css" crc="4197166095" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="3822687714" ref="2018-wine-list"/>
-    <file name="wineries.css" crc="4038175186" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="506733023" ref="wineries"/>
+    <file name="wineries.css" crc="145511359" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="89145734" ref="wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -428,6 +428,6 @@
     <file name="wineries176x52_2x.png" crc="4035474522" seo="true" ref="index"/>
   </folder>
   <file name="index.html" crc="3931125055" seo="true" mt="1548693182723" redirect="true"/>
-  <file name="wineries.html" crc="3842509742" seo="true" mt="1549984015182" redirect="true"/>
+  <file name="wineries.html" crc="4273624831" seo="true" mt="1550078918686" redirect="true"/>
   <file name="2018-wine-list.html" crc="349520469" seo="true" mt="1548692698042" redirect="true"/>
 </manifest>
