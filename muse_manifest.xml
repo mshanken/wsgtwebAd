@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1551125484651">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1551736671321">
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="198842930" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="82710067" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
     <file name="nomq_preview_master_a-master.css" crc="199937713" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="index.css" crc="154839357" ref="index"/>
-    <file name="nomq_index.css" crc="448697506" ref="index"/>
+    <file name="index.css" crc="263964927" ref="index"/>
+    <file name="nomq_index.css" crc="4154395523" ref="index"/>
     <file name="2018-wine-list.css" crc="4197166095" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="3822687714" ref="2018-wine-list"/>
     <file name="wineries.css" crc="293176311" ref="wineries"/>
@@ -429,7 +429,7 @@
     <file name="wineries176x52.png" crc="534100359" seo="true" ref="index"/>
     <file name="wineries176x52_2x.png" crc="4035474522" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3931125055" seo="true" mt="1548693182723" redirect="true"/>
+  <file name="index.html" crc="3802162525" seo="true" mt="1551736307713" redirect="true"/>
   <file name="wineries.html" crc="3796054425" seo="true" mt="1551125346079" redirect="true"/>
   <file name="2018-wine-list.html" crc="349520469" seo="true" mt="1548692698042" redirect="true"/>
   <file name="wineries---no-countries.html" crc="528517563" seo="true" mt="1551107994849" redirect="true"/>
