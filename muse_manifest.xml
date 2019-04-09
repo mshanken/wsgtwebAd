@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1554754955863">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1554836837244">
   <folder name="assets">
     <file name="gt19_vegas_mapltr_p.pdf" crc="72016614" seo="true" mt="1554748878000"/>
     <file name="chicagomapltr_p.pdf" crc="3825488793" seo="true" mt="1554748878000"/>
@@ -6,10 +6,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="405902049" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="master_a-master.css" crc="509219197" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
     <file name="nomq_preview_master_a-master.css" crc="199937713" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="index.css" crc="4285270639" ref="index"/>
-    <file name="nomq_index.css" crc="3863936541" ref="index"/>
+    <file name="index.css" crc="490054899" ref="index"/>
+    <file name="nomq_index.css" crc="4140309066" ref="index"/>
     <file name="2018-wine-list.css" crc="3998347566" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="4036907568" ref="2018-wine-list"/>
     <file name="wineries.css" crc="3779923684" ref="wineries"/>
@@ -433,8 +433,28 @@
     <file name="wineries203x59_2x.png" crc="4035474522" seo="true" ref="index"/>
     <file name="wineries176x52.png" crc="534100359" seo="true" ref="index"/>
     <file name="wineries176x52_2x.png" crc="4035474522" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill.jpg" crc="484322895" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill_2x.jpg" crc="333078648" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill154x23.jpg" crc="3961285392" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill154x23_2x.jpg" crc="3766845679" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill145x22.jpg" crc="4056279104" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill145x22_2x.jpg" crc="66722706" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill131x20.jpg" crc="464630712" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill131x20_2x.jpg" crc="92698890" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill116x17.jpg" crc="367667025" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill116x17_2x.jpg" crc="3773956587" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill99x15.jpg" crc="52875830" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill99x15_2x.jpg" crc="453919955" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill110x17.jpg" crc="4151576726" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill110x17_2x.jpg" crc="355899279" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill180x27.jpg" crc="117074009" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill180x27_2x.jpg" crc="4069407008" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill173x26.jpg" crc="3861725537" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill173x26_2x.jpg" crc="4212550832" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill147x22.jpg" crc="3962133385" seo="true" ref="index"/>
+    <file name="reserve-a-room-fill147x22_2x.jpg" crc="101698151" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="310948280" seo="true" mt="1554754903570" redirect="true"/>
+  <file name="index.html" crc="4214165223" seo="true" mt="1554836764972" redirect="true"/>
   <file name="wineries.html" crc="503961203" seo="true" mt="1553607874461" redirect="true"/>
   <file name="2018-wine-list.html" crc="3780296935" seo="true" mt="1553607874461" redirect="true"/>
   <file name="wineries---no-countries.html" crc="4087970640" seo="true" mt="1553607874461" redirect="true"/>
