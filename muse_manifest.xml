@@ -1,19 +1,20 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1554836837244">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1555511146232">
   <folder name="assets">
     <file name="gt19_vegas_mapltr_p.pdf" crc="72016614" seo="true" mt="1554748878000"/>
     <file name="chicagomapltr_p.pdf" crc="3825488793" seo="true" mt="1554748878000"/>
     <file name="gt19_miamimapltr_p.pdf" crc="3869601515" seo="true" mt="1554748878000"/>
+    <file name="gtwinelist2019.pdf" crc="3762536407" seo="true" mt="1555442016000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="509219197" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="master_a-master.css" crc="3901595829" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
     <file name="nomq_preview_master_a-master.css" crc="199937713" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="index.css" crc="490054899" ref="index"/>
-    <file name="nomq_index.css" crc="4140309066" ref="index"/>
+    <file name="index.css" crc="2029508" ref="index"/>
+    <file name="nomq_index.css" crc="208704328" ref="index"/>
     <file name="2018-wine-list.css" crc="3998347566" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="4036907568" ref="2018-wine-list"/>
-    <file name="wineries.css" crc="3779923684" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="112983831" ref="wineries"/>
+    <file name="wineries.css" crc="3971377972" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="4088819398" ref="wineries"/>
     <file name="wineries---no-countries.css" crc="4131879320" ref="wineries---no-countries"/>
     <file name="nomq_wineries---no-countries.css" crc="3862945587" ref="wineries---no-countries"/>
   </folder>
@@ -427,8 +428,6 @@
     <file name="wineries141x41_2x.png" crc="3858545151" seo="true" ref="index"/>
     <file name="wineries.png" crc="4114666904" seo="true" ref="index"/>
     <file name="wineries_2x.png" crc="4035474522" seo="true" ref="index"/>
-    <file name="wineries213x62.png" crc="3871101687" seo="true" ref="index"/>
-    <file name="wineries213x62_2x.png" crc="4035474522" seo="true" ref="index"/>
     <file name="wineries203x59.png" crc="240587315" seo="true" ref="index"/>
     <file name="wineries203x59_2x.png" crc="4035474522" seo="true" ref="index"/>
     <file name="wineries176x52.png" crc="534100359" seo="true" ref="index"/>
@@ -453,9 +452,31 @@
     <file name="reserve-a-room-fill173x26_2x.jpg" crc="4212550832" seo="true" ref="index"/>
     <file name="reserve-a-room-fill147x22.jpg" crc="3962133385" seo="true" ref="index"/>
     <file name="reserve-a-room-fill147x22_2x.jpg" crc="101698151" seo="true" ref="index"/>
+    <file name="wine-list.png" crc="4077783931" seo="true" ref="index"/>
+    <file name="wine-list_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list253x74.png" crc="351328543" seo="true" ref="index"/>
+    <file name="wine-list253x74_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list237x69.png" crc="200358322" seo="true" ref="index"/>
+    <file name="wine-list237x69_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list210x61.png" crc="487167480" seo="true" ref="index"/>
+    <file name="wine-list210x61_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list190x56.png" crc="107896010" seo="true" ref="index"/>
+    <file name="wine-list190x56_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list165x48.png" crc="327907074" seo="true" ref="index"/>
+    <file name="wine-list165x48_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list141x41.png" crc="3840686735" seo="true" ref="index"/>
+    <file name="wine-list141x41_2x.png" crc="105412546" seo="true" ref="index"/>
+    <file name="wineries-u41151.png" crc="4183086787" ref="index"/>
+    <file name="wineries-u41151_2x.png" crc="308415200" ref="index"/>
+    <file name="wine-list-u41614.png" crc="4262650536" ref="index"/>
+    <file name="wine-list-u41614_2x.png" crc="4193815486" ref="index"/>
+    <file name="wine-list203x60.png" crc="87731483" seo="true" ref="index"/>
+    <file name="wine-list203x60_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="wine-list176x52.png" crc="3790884817" seo="true" ref="index"/>
+    <file name="wine-list176x52_2x.png" crc="4038419704" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4214165223" seo="true" mt="1554836764972" redirect="true"/>
-  <file name="wineries.html" crc="503961203" seo="true" mt="1553607874461" redirect="true"/>
+  <file name="index.html" crc="3841195624" seo="true" mt="1555511065865" redirect="true"/>
+  <file name="wineries.html" crc="188774619" seo="true" mt="1555510078777" redirect="true"/>
   <file name="2018-wine-list.html" crc="3780296935" seo="true" mt="1553607874461" redirect="true"/>
   <file name="wineries---no-countries.html" crc="4087970640" seo="true" mt="1553607874461" redirect="true"/>
 </manifest>
