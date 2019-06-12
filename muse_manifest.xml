@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1555511146232">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1560367484772">
   <folder name="assets">
     <file name="gt19_vegas_mapltr_p.pdf" crc="72016614" seo="true" mt="1554748878000"/>
     <file name="chicagomapltr_p.pdf" crc="3825488793" seo="true" mt="1554748878000"/>
@@ -6,17 +6,17 @@
     <file name="gtwinelist2019.pdf" crc="3762536407" seo="true" mt="1555442016000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="3901595829" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="nomq_preview_master_a-master.css" crc="199937713" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="index.css" crc="2029508" ref="index"/>
-    <file name="nomq_index.css" crc="208704328" ref="index"/>
-    <file name="2018-wine-list.css" crc="3998347566" ref="2018-wine-list"/>
-    <file name="nomq_2018-wine-list.css" crc="4036907568" ref="2018-wine-list"/>
-    <file name="wineries.css" crc="3971377972" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="4088819398" ref="wineries"/>
-    <file name="wineries---no-countries.css" crc="4131879320" ref="wineries---no-countries"/>
-    <file name="nomq_wineries---no-countries.css" crc="3862945587" ref="wineries---no-countries"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="384021629" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="nomq_preview_master_a-master.css" crc="17830151" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="index.css" crc="3838750100" ref="index"/>
+    <file name="nomq_index.css" crc="4278163127" ref="index"/>
+    <file name="2018-wine-list.css" crc="114844738" ref="2018-wine-list"/>
+    <file name="nomq_2018-wine-list.css" crc="3821147557" ref="2018-wine-list"/>
+    <file name="wineries.css" crc="92754110" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="4013332860" ref="wineries"/>
+    <file name="wineries---no-countries.css" crc="4141293922" ref="wineries---no-countries"/>
+    <file name="nomq_wineries---no-countries.css" crc="238653393" ref="wineries---no-countries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -38,14 +38,10 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="grand-tour-logo.png" crc="488851509" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="grand-tour-logo_2x.png" crc="426736109" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
     <file name="gals.jpg" crc="525314005" seo="true" ref="index"/>
     <file name="gals_2x.jpg" crc="94587614" seo="true" ref="index"/>
     <file name="two-men.jpg" crc="4280288586" seo="true" ref="index"/>
     <file name="two-men_2x.jpg" crc="76949990" seo="true" ref="index"/>
-    <file name="general-admission.jpg" crc="114310591" seo="true" ref="index"/>
-    <file name="general-admission_2x.jpg" crc="4051573715" seo="true" ref="index"/>
     <file name="pour.jpg" crc="3982057700" seo="true" ref="index"/>
     <file name="pour_2x.jpg" crc="513148668" seo="true" ref="index"/>
     <file name="couple.jpg" crc="238825187" seo="true" ref="index"/>
@@ -54,10 +50,6 @@
     <file name="guy-2-gals_2x.jpg" crc="3979069591" seo="true" ref="index"/>
     <file name="las-vegas396x248.jpg" crc="3852054889" seo="true" ref="index"/>
     <file name="las-vegas396x248_2x.jpg" crc="3776234913" seo="true" ref="index"/>
-    <file name="chicago402x248.jpg" crc="12284335" seo="true" ref="index"/>
-    <file name="chicago402x248_2x.jpg" crc="390356503" seo="true" ref="index"/>
-    <file name="miami394x248.jpg" crc="59986253" seo="true" ref="index"/>
-    <file name="miami394x248_2x.jpg" crc="177597881" seo="true" ref="index"/>
     <file name="reserve-a-room.jpg" crc="103076221" seo="true" ref="index"/>
     <file name="reserve-a-room_2x.jpg" crc="533928308" seo="true" ref="index"/>
     <file name="group-guys.jpg" crc="3994945674" seo="true" ref="index"/>
@@ -68,14 +60,10 @@
     <file name="couple-bottles_2x.jpg" crc="23733355" seo="true" ref="index"/>
     <file name="two-women.jpg" crc="31175698" seo="true" ref="index"/>
     <file name="two-women_2x.jpg" crc="3915405940" seo="true" ref="index"/>
-    <file name="grand-tour-logo390x436.png" crc="3824892151" seo="true" ref="index"/>
-    <file name="grand-tour-logo390x436_2x.png" crc="426736109" seo="true" ref="index"/>
     <file name="gals307x228.jpg" crc="125201479" seo="true" ref="index"/>
     <file name="gals307x228_2x.jpg" crc="4004285466" seo="true" ref="index"/>
     <file name="two-men308x228.jpg" crc="222479945" seo="true" ref="index"/>
     <file name="two-men308x228_2x.jpg" crc="3837071982" seo="true" ref="index"/>
-    <file name="general-admission268x71.jpg" crc="179849685" seo="true" ref="index"/>
-    <file name="general-admission268x71_2x.jpg" crc="174858036" seo="true" ref="index"/>
     <file name="pour307x228.jpg" crc="476116325" seo="true" ref="index"/>
     <file name="pour307x228_2x.jpg" crc="115128574" seo="true" ref="index"/>
     <file name="couple402x228.jpg" crc="4129715356" seo="true" ref="index"/>
@@ -84,10 +72,6 @@
     <file name="guy-2-gals307x228_2x.jpg" crc="4085465655" seo="true" ref="index"/>
     <file name="las-vegas338x212.jpg" crc="29970629" seo="true" ref="index"/>
     <file name="las-vegas338x212_2x.jpg" crc="323083990" seo="true" ref="index"/>
-    <file name="chicago343x212.jpg" crc="4149097973" seo="true" ref="index"/>
-    <file name="chicago343x212_2x.jpg" crc="28771899" seo="true" ref="index"/>
-    <file name="miami336x212.jpg" crc="4026135217" seo="true" ref="index"/>
-    <file name="miami336x212_2x.jpg" crc="3758507722" seo="true" ref="index"/>
     <file name="reserve-a-room173x43.jpg" crc="3823688185" seo="true" ref="index"/>
     <file name="reserve-a-room173x43_2x.jpg" crc="4095252430" seo="true" ref="index"/>
     <file name="group-guys556x372.jpg" crc="4232612243" seo="true" ref="index"/>
@@ -98,14 +82,10 @@
     <file name="couple-bottles307x346_2x.jpg" crc="383374738" seo="true" ref="index"/>
     <file name="glass464x721.jpg" crc="308672810" seo="true" ref="index"/>
     <file name="glass464x721_2x.jpg" crc="154676835" seo="true" ref="index"/>
-    <file name="grand-tour-logo365x409.png" crc="435221129" seo="true" ref="index"/>
-    <file name="grand-tour-logo365x409_2x.png" crc="426736109" seo="true" ref="index"/>
     <file name="gals288x214.jpg" crc="3814535978" seo="true" ref="index"/>
     <file name="gals288x214_2x.jpg" crc="26670548" seo="true" ref="index"/>
     <file name="two-men289x214.jpg" crc="141181918" seo="true" ref="index"/>
     <file name="two-men289x214_2x.jpg" crc="3997885963" seo="true" ref="index"/>
-    <file name="general-admission252x66.jpg" crc="3866737605" seo="true" ref="index"/>
-    <file name="general-admission252x66_2x.jpg" crc="132451938" seo="true" ref="index"/>
     <file name="pour288x214.jpg" crc="272094435" seo="true" ref="index"/>
     <file name="pour288x214_2x.jpg" crc="416599154" seo="true" ref="index"/>
     <file name="couple377x214.jpg" crc="93029285" seo="true" ref="index"/>
@@ -114,10 +94,6 @@
     <file name="guy-2-gals288x214_2x.jpg" crc="82706368" seo="true" ref="index"/>
     <file name="las-vegas317x199.jpg" crc="3979981374" seo="true" ref="index"/>
     <file name="las-vegas317x199_2x.jpg" crc="274065819" seo="true" ref="index"/>
-    <file name="chicago321x199.jpg" crc="3851234855" seo="true" ref="index"/>
-    <file name="chicago321x199_2x.jpg" crc="301965489" seo="true" ref="index"/>
-    <file name="miami315x199.jpg" crc="266413966" seo="true" ref="index"/>
-    <file name="miami315x199_2x.jpg" crc="45169689" seo="true" ref="index"/>
     <file name="reserve-a-room163x40.jpg" crc="300994251" seo="true" ref="index"/>
     <file name="reserve-a-room163x40_2x.jpg" crc="4133615233" seo="true" ref="index"/>
     <file name="group-guys521x348.jpg" crc="451229340" seo="true" ref="index"/>
@@ -128,14 +104,10 @@
     <file name="couple-bottles288x324_2x.jpg" crc="66433178" seo="true" ref="index"/>
     <file name="glass435x676.jpg" crc="3835964519" seo="true" ref="index"/>
     <file name="glass435x676_2x.jpg" crc="3916147180" seo="true" ref="index"/>
-    <file name="grand-tour-logo323x362.png" crc="4204466342" seo="true" ref="index"/>
-    <file name="grand-tour-logo323x362_2x.png" crc="426736109" seo="true" ref="index"/>
     <file name="gals255x190.jpg" crc="243218630" seo="true" ref="index"/>
     <file name="gals255x190_2x.jpg" crc="3964578664" seo="true" ref="index"/>
     <file name="two-men256x190.jpg" crc="3838341223" seo="true" ref="index"/>
     <file name="two-men256x190_2x.jpg" crc="4150737944" seo="true" ref="index"/>
-    <file name="general-admission223x59.jpg" crc="330826912" seo="true" ref="index"/>
-    <file name="general-admission223x59_2x.jpg" crc="4204443045" seo="true" ref="index"/>
     <file name="pour255x190.jpg" crc="4097147798" seo="true" ref="index"/>
     <file name="pour255x190_2x.jpg" crc="4015362649" seo="true" ref="index"/>
     <file name="couple334x190.jpg" crc="4173249521" seo="true" ref="index"/>
@@ -144,10 +116,6 @@
     <file name="guy-2-gals255x190_2x.jpg" crc="4071222620" seo="true" ref="index"/>
     <file name="las-vegas280x176.jpg" crc="3889849377" seo="true" ref="index"/>
     <file name="las-vegas280x176_2x.jpg" crc="255690361" seo="true" ref="index"/>
-    <file name="chicago285x176.jpg" crc="3964891885" seo="true" ref="index"/>
-    <file name="chicago285x176_2x.jpg" crc="4239314151" seo="true" ref="index"/>
-    <file name="miami279x176.jpg" crc="324132580" seo="true" ref="index"/>
-    <file name="miami279x176_2x.jpg" crc="3860611537" seo="true" ref="index"/>
     <file name="reserve-a-room144x36.jpg" crc="469161576" seo="true" ref="index"/>
     <file name="reserve-a-room144x36_2x.jpg" crc="293642288" seo="true" ref="index"/>
     <file name="group-guys461x309.jpg" crc="3992318027" seo="true" ref="index"/>
@@ -158,14 +126,10 @@
     <file name="couple-bottles255x287_2x.jpg" crc="393571712" seo="true" ref="index"/>
     <file name="glass385x598.jpg" crc="51503839" seo="true" ref="index"/>
     <file name="glass385x598_2x.jpg" crc="261141969" seo="true" ref="index"/>
-    <file name="grand-tour-logo292x327.png" crc="3959003690" seo="true" ref="index"/>
-    <file name="grand-tour-logo292x327_2x.png" crc="3974700562" seo="true" ref="index"/>
     <file name="gals231x171.jpg" crc="4118459475" seo="true" ref="index"/>
     <file name="gals231x171_2x.jpg" crc="279884384" seo="true" ref="index"/>
     <file name="two-men231x171.jpg" crc="458819669" seo="true" ref="index"/>
     <file name="two-men231x171_2x.jpg" crc="3965886491" seo="true" ref="index"/>
-    <file name="general-admission201x53.jpg" crc="4262656579" seo="true" ref="index"/>
-    <file name="general-admission201x53_2x.jpg" crc="331151051" seo="true" ref="index"/>
     <file name="pour231x171.jpg" crc="84601949" seo="true" ref="index"/>
     <file name="pour231x171_2x.jpg" crc="210935741" seo="true" ref="index"/>
     <file name="couple301x171.jpg" crc="4152739094" seo="true" ref="index"/>
@@ -174,10 +138,6 @@
     <file name="guy-2-gals231x171_2x.jpg" crc="3844012708" seo="true" ref="index"/>
     <file name="las-vegas253x159.jpg" crc="354646465" seo="true" ref="index"/>
     <file name="las-vegas253x159_2x.jpg" crc="62433046" seo="true" ref="index"/>
-    <file name="chicago257x159.jpg" crc="482291266" seo="true" ref="index"/>
-    <file name="chicago257x159_2x.jpg" crc="4272040654" seo="true" ref="index"/>
-    <file name="miami252x159.jpg" crc="3762744112" seo="true" ref="index"/>
-    <file name="miami252x159_2x.jpg" crc="3828763932" seo="true" ref="index"/>
     <file name="reserve-a-room130x32.jpg" crc="488739467" seo="true" ref="index"/>
     <file name="reserve-a-room130x32_2x.jpg" crc="272362568" seo="true" ref="index"/>
     <file name="group-guys417x279.jpg" crc="483618104" seo="true" ref="index"/>
@@ -188,14 +148,10 @@
     <file name="couple-bottles230x259_2x.jpg" crc="4221389627" seo="true" ref="index"/>
     <file name="glass348x541.jpg" crc="3789483391" seo="true" ref="index"/>
     <file name="glass348x541_2x.jpg" crc="330081849" seo="true" ref="index"/>
-    <file name="grand-tour-logo254x284.png" crc="4015831793" seo="true" ref="index"/>
-    <file name="grand-tour-logo254x284_2x.png" crc="44187145" seo="true" ref="index"/>
     <file name="gals200x149.jpg" crc="3831704163" seo="true" ref="index"/>
     <file name="gals200x149_2x.jpg" crc="16367333" seo="true" ref="index"/>
     <file name="two-men201x149.jpg" crc="242959731" seo="true" ref="index"/>
     <file name="two-men201x149_2x.jpg" crc="3821313461" seo="true" ref="index"/>
-    <file name="general-admission175x46.jpg" crc="361983466" seo="true" ref="index"/>
-    <file name="general-admission175x46_2x.jpg" crc="3975433434" seo="true" ref="index"/>
     <file name="pour200x149.jpg" crc="3823674112" seo="true" ref="index"/>
     <file name="pour200x149_2x.jpg" crc="4120835944" seo="true" ref="index"/>
     <file name="couple262x149.jpg" crc="3930766155" seo="true" ref="index"/>
@@ -204,10 +160,6 @@
     <file name="guy-2-gals200x149_2x.jpg" crc="4129956854" seo="true" ref="index"/>
     <file name="las-vegas220x138.jpg" crc="4281676463" seo="true" ref="index"/>
     <file name="las-vegas220x138_2x.jpg" crc="3788826611" seo="true" ref="index"/>
-    <file name="chicago223x138.jpg" crc="3879763718" seo="true" ref="index"/>
-    <file name="chicago223x138_2x.jpg" crc="197055955" seo="true" ref="index"/>
-    <file name="miami219x138.jpg" crc="4187448304" seo="true" ref="index"/>
-    <file name="miami219x138_2x.jpg" crc="51522378" seo="true" ref="index"/>
     <file name="reserve-a-room113x28.jpg" crc="342744387" seo="true" ref="index"/>
     <file name="reserve-a-room113x28_2x.jpg" crc="132616616" seo="true" ref="index"/>
     <file name="group-guys362x242.jpg" crc="4211834632" seo="true" ref="index"/>
@@ -218,14 +170,10 @@
     <file name="couple-bottles200x225_2x.jpg" crc="37050611" seo="true" ref="index"/>
     <file name="glass303x469.jpg" crc="4112683293" seo="true" ref="index"/>
     <file name="glass303x469_2x.jpg" crc="3970465328" seo="true" ref="index"/>
-    <file name="grand-tour-logo216x242.png" crc="494052740" seo="true" ref="index"/>
-    <file name="grand-tour-logo216x242_2x.png" crc="195693385" seo="true" ref="index"/>
     <file name="gals171x127.jpg" crc="142689868" seo="true" ref="index"/>
     <file name="gals171x127_2x.jpg" crc="417206165" seo="true" ref="index"/>
     <file name="two-men171x127.jpg" crc="3901113485" seo="true" ref="index"/>
     <file name="two-men171x127_2x.jpg" crc="149405268" seo="true" ref="index"/>
-    <file name="general-admission149x39.jpg" crc="4257235031" seo="true" ref="index"/>
-    <file name="general-admission149x39_2x.jpg" crc="3884797264" seo="true" ref="index"/>
     <file name="pour171x127.jpg" crc="381926663" seo="true" ref="index"/>
     <file name="pour171x127_2x.jpg" crc="76494469" seo="true" ref="index"/>
     <file name="couple223x127.jpg" crc="3797527888" seo="true" ref="index"/>
@@ -234,10 +182,6 @@
     <file name="guy-2-gals171x127_2x.jpg" crc="99868947" seo="true" ref="index"/>
     <file name="las-vegas188x118.jpg" crc="475340596" seo="true" ref="index"/>
     <file name="las-vegas188x118_2x.jpg" crc="3971809721" seo="true" ref="index"/>
-    <file name="chicago190x118.jpg" crc="3935078823" seo="true" ref="index"/>
-    <file name="chicago190x118_2x.jpg" crc="3863097614" seo="true" ref="index"/>
-    <file name="miami187x118.jpg" crc="355524844" seo="true" ref="index"/>
-    <file name="miami187x118_2x.jpg" crc="230654556" seo="true" ref="index"/>
     <file name="reserve-a-room123x31.jpg" crc="39203554" seo="true" ref="index"/>
     <file name="reserve-a-room123x31_2x.jpg" crc="374175511" seo="true" ref="index"/>
     <file name="group-guys309x206.jpg" crc="4268191016" seo="true" ref="index"/>
@@ -250,14 +194,10 @@
     <file name="glass258x400_2x.jpg" crc="34006541" seo="true" ref="index"/>
     <file name="top-pour-mobile.jpg" crc="3838224444" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
     <file name="top-pour-mobile_2x.jpg" crc="4006091579" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="grand-tour-logo314x352.png" crc="3793437145" seo="true" ref="index"/>
-    <file name="grand-tour-logo314x352_2x.png" crc="426736109" seo="true" ref="index"/>
     <file name="gals205x152.jpg" crc="72077642" seo="true" ref="index"/>
     <file name="gals205x152_2x.jpg" crc="116292356" seo="true" ref="index"/>
     <file name="two-men205x152.jpg" crc="255415345" seo="true" ref="index"/>
     <file name="two-men205x152_2x.jpg" crc="3769013953" seo="true" ref="index"/>
-    <file name="general-admission300x79.jpg" crc="492419292" seo="true" ref="index"/>
-    <file name="general-admission300x79_2x.jpg" crc="4031112574" seo="true" ref="index"/>
     <file name="couple414x236.jpg" crc="4051655892" seo="true" ref="index"/>
     <file name="couple414x236_2x.jpg" crc="128040447" seo="true" ref="index"/>
     <file name="pour204x152.jpg" crc="85835772" seo="true" ref="index"/>
@@ -268,10 +208,8 @@
     <file name="las-vegas_2x.jpg" crc="4221990843" seo="true" ref="index"/>
     <file name="reserve-a-room194x48.jpg" crc="133751345" seo="true" ref="index"/>
     <file name="reserve-a-room194x48_2x.jpg" crc="4044805315" seo="true" ref="index"/>
-    <file name="chicago.jpg" crc="4015066687" seo="true" ref="index"/>
-    <file name="chicago_2x.jpg" crc="504936944" seo="true" ref="index"/>
-    <file name="miami.jpg" crc="3885847239" seo="true" ref="index"/>
-    <file name="miami_2x.jpg" crc="3930897363" seo="true" ref="index"/>
+    <file name="chicago.jpg" crc="471268657" seo="true" ref="index"/>
+    <file name="chicago_2x.jpg" crc="488150374" seo="true" ref="index"/>
     <file name="group-guys414x277.jpg" crc="155030342" seo="true" ref="index"/>
     <file name="group-guys414x277_2x.jpg" crc="4089331115" seo="true" ref="index"/>
     <file name="glass414x643.jpg" crc="116162887" seo="true" ref="index"/>
@@ -282,8 +220,6 @@
     <file name="couple-bottles227x256_2x.jpg" crc="3968318528" seo="true" ref="index"/>
     <file name="top-pour-mobile-crop-u37869.jpg" crc="343848003" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
     <file name="top-pour-mobile-crop-u37869_2x.jpg" crc="3786512306" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="grand-tour-logo307x344.png" crc="3847668362" seo="true" ref="index"/>
-    <file name="grand-tour-logo307x344_2x.png" crc="204725216" seo="true" ref="index"/>
     <file name="gals186x138.jpg" crc="137550307" seo="true" ref="index"/>
     <file name="gals186x138_2x.jpg" crc="4185525238" seo="true" ref="index"/>
     <file name="two-men186x138.jpg" crc="3782346931" seo="true" ref="index"/>
@@ -296,10 +232,8 @@
     <file name="guy-2-gals185x137_2x.jpg" crc="182707860" seo="true" ref="index"/>
     <file name="las-vegas375x236.jpg" crc="56254656" seo="true" ref="index"/>
     <file name="las-vegas375x236_2x.jpg" crc="3885309072" seo="true" ref="index"/>
-    <file name="chicago375x232.jpg" crc="3851047439" seo="true" ref="index"/>
-    <file name="chicago375x232_2x.jpg" crc="312771716" seo="true" ref="index"/>
-    <file name="miami375x236.jpg" crc="4243829920" seo="true" ref="index"/>
-    <file name="miami375x236_2x.jpg" crc="23484714" seo="true" ref="index"/>
+    <file name="chicago375x232.jpg" crc="3793238126" seo="true" ref="index"/>
+    <file name="chicago375x232_2x.jpg" crc="4124346420" seo="true" ref="index"/>
     <file name="group-guys375x251.jpg" crc="34181697" seo="true" ref="index"/>
     <file name="group-guys375x251_2x.jpg" crc="95088570" seo="true" ref="index"/>
     <file name="glass375x583.jpg" crc="4098044913" seo="true" ref="index"/>
@@ -308,14 +242,10 @@
     <file name="two-women164x233_2x.jpg" crc="3814051688" seo="true" ref="index"/>
     <file name="couple-bottles206x232.jpg" crc="51966544" seo="true" ref="index"/>
     <file name="couple-bottles206x232_2x.jpg" crc="4286115516" seo="true" ref="index"/>
-    <file name="grand-tour-logo253x284.png" crc="3951854788" seo="true" ref="index"/>
-    <file name="grand-tour-logo253x284_2x.png" crc="4278859817" seo="true" ref="index"/>
     <file name="gals158x118.jpg" crc="286719499" seo="true" ref="index"/>
     <file name="gals158x118_2x.jpg" crc="452521268" seo="true" ref="index"/>
     <file name="two-men159x118.jpg" crc="4119785415" seo="true" ref="index"/>
     <file name="two-men159x118_2x.jpg" crc="209132264" seo="true" ref="index"/>
-    <file name="general-admission240x63.jpg" crc="4131594809" seo="true" ref="index"/>
-    <file name="general-admission240x63_2x.jpg" crc="299319607" seo="true" ref="index"/>
     <file name="couple320x182.jpg" crc="3967122521" seo="true" ref="index"/>
     <file name="couple320x182_2x.jpg" crc="3975078141" seo="true" ref="index"/>
     <file name="pour157x117.jpg" crc="150808482" seo="true" ref="index"/>
@@ -326,12 +256,8 @@
     <file name="las-vegas320x201_2x.jpg" crc="169238204" seo="true" ref="index"/>
     <file name="reserve-a-room158x39.jpg" crc="357734692" seo="true" ref="index"/>
     <file name="reserve-a-room158x39_2x.jpg" crc="4198464998" seo="true" ref="index"/>
-    <file name="chicago320x198.jpg" crc="126074775" seo="true" ref="index"/>
-    <file name="chicago320x198_2x.jpg" crc="4155152852" seo="true" ref="index"/>
-    <file name="miami320x202.jpg" crc="3932519027" seo="true" ref="index"/>
-    <file name="miami320x202_2x.jpg" crc="504471052" seo="true" ref="index"/>
-    <file name="reserve-a-room155x39.jpg" crc="370897476" seo="true" ref="index"/>
-    <file name="reserve-a-room155x39_2x.jpg" crc="4032664603" seo="true" ref="index"/>
+    <file name="chicago320x198.jpg" crc="455008946" seo="true" ref="index"/>
+    <file name="chicago320x198_2x.jpg" crc="423717486" seo="true" ref="index"/>
     <file name="group-guys320x214.jpg" crc="4028443741" seo="true" ref="index"/>
     <file name="group-guys320x214_2x.jpg" crc="462677058" seo="true" ref="index"/>
     <file name="glass320x497.jpg" crc="4155528737" seo="true" ref="index"/>
@@ -362,58 +288,18 @@
     <file name="top-pour2568x379.jpg" crc="150053068" seo="true" ref="index"/>
     <file name="top-pour2568x379_2x.jpg" crc="4135373421" seo="true" ref="index"/>
     <file name="pour-photo-w-overlay2568x320.jpg" crc="7954833" seo="true" ref="index"/>
-    <file name="sign-up2.png" crc="33439631" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="sign-up2_2x.png" crc="4171332995" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="sign-up2163x162.png" crc="280584350" seo="true" ref="index"/>
-    <file name="sign-up2163x162_2x.png" crc="99925524" seo="true" ref="index"/>
-    <file name="sign-up2152x152.png" crc="128787596" seo="true" ref="index"/>
-    <file name="sign-up2152x152_2x.png" crc="506468707" seo="true" ref="index"/>
-    <file name="sign-up2135x135.png" crc="4147631951" seo="true" ref="index"/>
-    <file name="sign-up2135x135_2x.png" crc="431822130" seo="true" ref="index"/>
-    <file name="sign-up2122x122.png" crc="399245749" seo="true" ref="index"/>
-    <file name="sign-up2122x122_2x.png" crc="3912188056" seo="true" ref="index"/>
-    <file name="sign-up2106x106.png" crc="3791929568" seo="true" ref="index"/>
-    <file name="sign-up2106x106_2x.png" crc="3905287142" seo="true" ref="index"/>
-    <file name="sign-up290x90.png" crc="4000204936" seo="true" ref="index"/>
-    <file name="sign-up290x90_2x.png" crc="300006292" seo="true" ref="index"/>
-    <file name="sign-up2109x109.png" crc="356293176" seo="true" ref="index"/>
-    <file name="sign-up2109x109_2x.png" crc="175963810" seo="true" ref="index"/>
     <file name="wine-photo-mobile414x342.jpg" crc="3902326631" seo="true" ref="index"/>
     <file name="wine-photo-mobile_2x.jpg" crc="328130914" seo="true" ref="index"/>
     <file name="240414x135.png" crc="4110441805" seo="true" ref="index"/>
     <file name="240_2x.png" crc="4110441805" seo="true" ref="index"/>
-    <file name="sign-up295x94.png" crc="3821065682" seo="true" ref="index"/>
-    <file name="sign-up295x94_2x.png" crc="4044303857" seo="true" ref="index"/>
     <file name="wine-photo-mobile375x310.jpg" crc="4113065100" seo="true" ref="index"/>
     <file name="wine-photo-mobile375x310_2x.jpg" crc="4115677399" seo="true" ref="index"/>
     <file name="240375x122.png" crc="4110441805" seo="true" ref="index"/>
     <file name="240375x122_2x.png" crc="4110441805" seo="true" ref="index"/>
-    <file name="sign-up283x83.png" crc="194276575" seo="true" ref="index"/>
-    <file name="sign-up283x83_2x.png" crc="3909787371" seo="true" ref="index"/>
     <file name="wine-photo-mobile320x264.jpg" crc="377049134" seo="true" ref="index"/>
     <file name="wine-photo-mobile320x264_2x.jpg" crc="3996400499" seo="true" ref="index"/>
     <file name="240320x104.png" crc="3869415984" seo="true" ref="index"/>
     <file name="240320x104_2x.png" crc="4110441805" seo="true" ref="index"/>
-    <file name="vip325-2.jpg" crc="458727619" seo="true" ref="index"/>
-    <file name="vip325-2_2x.jpg" crc="280602113" seo="true" ref="index"/>
-    <file name="vip325-2268x71.jpg" crc="390418841" seo="true" ref="index"/>
-    <file name="vip325-2268x71_2x.jpg" crc="63421570" seo="true" ref="index"/>
-    <file name="vip325-2252x66.jpg" crc="3947879475" seo="true" ref="index"/>
-    <file name="vip325-2252x66_2x.jpg" crc="3969526176" seo="true" ref="index"/>
-    <file name="vip325-2223x59.jpg" crc="4169405489" seo="true" ref="index"/>
-    <file name="vip325-2223x59_2x.jpg" crc="3928955805" seo="true" ref="index"/>
-    <file name="vip325-2201x53.jpg" crc="3966888345" seo="true" ref="index"/>
-    <file name="vip325-2201x53_2x.jpg" crc="489550976" seo="true" ref="index"/>
-    <file name="vip325-2175x46.jpg" crc="3809690606" seo="true" ref="index"/>
-    <file name="vip325-2175x46_2x.jpg" crc="349521009" seo="true" ref="index"/>
-    <file name="vip325-2149x39.jpg" crc="3795835971" seo="true" ref="index"/>
-    <file name="vip325-2149x39_2x.jpg" crc="495149915" seo="true" ref="index"/>
-    <file name="vip325-2300x79.jpg" crc="103911127" seo="true" ref="index"/>
-    <file name="vip325-2300x79_2x.jpg" crc="4134898082" seo="true" ref="index"/>
-    <file name="vip325-2301x79.jpg" crc="103911127" seo="true" ref="index"/>
-    <file name="vip325-2301x79_2x.jpg" crc="168988548" seo="true" ref="index"/>
-    <file name="vip325-2240x63.jpg" crc="71018855" seo="true" ref="index"/>
-    <file name="vip325-2240x63_2x.jpg" crc="305734897" seo="true" ref="index"/>
     <file name="wineries253x74.png" crc="395883286" seo="true" ref="index"/>
     <file name="wineries253x74_2x.png" crc="4035474522" seo="true" ref="index"/>
     <file name="wineries237x69.png" crc="116817008" seo="true" ref="index"/>
@@ -432,26 +318,6 @@
     <file name="wineries203x59_2x.png" crc="4035474522" seo="true" ref="index"/>
     <file name="wineries176x52.png" crc="534100359" seo="true" ref="index"/>
     <file name="wineries176x52_2x.png" crc="4035474522" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill.jpg" crc="484322895" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill_2x.jpg" crc="333078648" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill154x23.jpg" crc="3961285392" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill154x23_2x.jpg" crc="3766845679" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill145x22.jpg" crc="4056279104" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill145x22_2x.jpg" crc="66722706" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill131x20.jpg" crc="464630712" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill131x20_2x.jpg" crc="92698890" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill116x17.jpg" crc="367667025" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill116x17_2x.jpg" crc="3773956587" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill99x15.jpg" crc="52875830" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill99x15_2x.jpg" crc="453919955" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill110x17.jpg" crc="4151576726" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill110x17_2x.jpg" crc="355899279" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill180x27.jpg" crc="117074009" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill180x27_2x.jpg" crc="4069407008" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill173x26.jpg" crc="3861725537" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill173x26_2x.jpg" crc="4212550832" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill147x22.jpg" crc="3962133385" seo="true" ref="index"/>
-    <file name="reserve-a-room-fill147x22_2x.jpg" crc="101698151" seo="true" ref="index"/>
     <file name="wine-list.png" crc="4077783931" seo="true" ref="index"/>
     <file name="wine-list_2x.png" crc="4038419704" seo="true" ref="index"/>
     <file name="wine-list253x74.png" crc="351328543" seo="true" ref="index"/>
@@ -468,15 +334,71 @@
     <file name="wine-list141x41_2x.png" crc="105412546" seo="true" ref="index"/>
     <file name="wineries-u41151.png" crc="4183086787" ref="index"/>
     <file name="wineries-u41151_2x.png" crc="308415200" ref="index"/>
-    <file name="wine-list-u41614.png" crc="4262650536" ref="index"/>
-    <file name="wine-list-u41614_2x.png" crc="4193815486" ref="index"/>
+    <file name="wine-list-u41614.png" crc="4013368473" ref="index"/>
+    <file name="wine-list-u41614_2x.png" crc="3904309355" ref="index"/>
     <file name="wine-list203x60.png" crc="87731483" seo="true" ref="index"/>
     <file name="wine-list203x60_2x.png" crc="4038419704" seo="true" ref="index"/>
     <file name="wine-list176x52.png" crc="3790884817" seo="true" ref="index"/>
     <file name="wine-list176x52_2x.png" crc="4038419704" seo="true" ref="index"/>
+    <file name="updates19.png" crc="66665391" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
+    <file name="updates19_2x.png" crc="4247053039" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
+    <file name="grand-tour-logo-crop-u37925.png" crc="3884236146" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
+    <file name="grand-tour-logo-crop-u37925_2x.png" crc="305054876" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
+    <file name="dc402x248.jpg" crc="183544981" seo="true" ref="index"/>
+    <file name="dc402x248_2x.jpg" crc="439969803" seo="true" ref="index"/>
+    <file name="chicago394x244.jpg" crc="4083124859" seo="true" ref="index"/>
+    <file name="chicago394x244_2x.jpg" crc="268543093" seo="true" ref="index"/>
+    <file name="updates19162x162.png" crc="4078096746" seo="true" ref="index"/>
+    <file name="updates19162x162_2x.png" crc="320675371" seo="true" ref="index"/>
+    <file name="dc343x212.jpg" crc="4008808508" seo="true" ref="index"/>
+    <file name="dc343x212_2x.jpg" crc="4005911338" seo="true" ref="index"/>
+    <file name="chicago336x208.jpg" crc="3874630140" seo="true" ref="index"/>
+    <file name="chicago336x208_2x.jpg" crc="4233709612" seo="true" ref="index"/>
+    <file name="updates19152x152.png" crc="532561748" seo="true" ref="index"/>
+    <file name="updates19152x152_2x.png" crc="4267306273" seo="true" ref="index"/>
+    <file name="dc321x199.jpg" crc="296414152" seo="true" ref="index"/>
+    <file name="dc321x199_2x.jpg" crc="4226024495" seo="true" ref="index"/>
+    <file name="chicago315x195.jpg" crc="4184320945" seo="true" ref="index"/>
+    <file name="chicago315x195_2x.jpg" crc="418653188" seo="true" ref="index"/>
+    <file name="updates19135x135.png" crc="4195064852" seo="true" ref="index"/>
+    <file name="updates19135x135_2x.png" crc="4042782676" seo="true" ref="index"/>
+    <file name="dc285x176.jpg" crc="155210659" seo="true" ref="index"/>
+    <file name="dc285x176_2x.jpg" crc="250923030" seo="true" ref="index"/>
+    <file name="chicago279x173.jpg" crc="177415992" seo="true" ref="index"/>
+    <file name="chicago279x173_2x.jpg" crc="434229824" seo="true" ref="index"/>
+    <file name="updates19122x122.png" crc="459603328" seo="true" ref="index"/>
+    <file name="updates19122x122_2x.png" crc="3923791558" seo="true" ref="index"/>
+    <file name="dc257x159.jpg" crc="31003192" seo="true" ref="index"/>
+    <file name="dc257x159_2x.jpg" crc="4025749065" seo="true" ref="index"/>
+    <file name="chicago252x156.jpg" crc="3936606594" seo="true" ref="index"/>
+    <file name="chicago252x156_2x.jpg" crc="3814557604" seo="true" ref="index"/>
+    <file name="updates19106x106.png" crc="82471646" seo="true" ref="index"/>
+    <file name="updates19106x106_2x.png" crc="478586646" seo="true" ref="index"/>
+    <file name="dc223x138.jpg" crc="158793505" seo="true" ref="index"/>
+    <file name="dc223x138_2x.jpg" crc="4213289336" seo="true" ref="index"/>
+    <file name="chicago219x136.jpg" crc="4227974939" seo="true" ref="index"/>
+    <file name="chicago219x136_2x.jpg" crc="444514171" seo="true" ref="index"/>
+    <file name="updates1990x90.png" crc="3999272500" seo="true" ref="index"/>
+    <file name="updates1990x90_2x.png" crc="468482296" seo="true" ref="index"/>
+    <file name="dc190x118.jpg" crc="3810767837" seo="true" ref="index"/>
+    <file name="dc190x118_2x.jpg" crc="482402261" seo="true" ref="index"/>
+    <file name="chicago187x116.jpg" crc="4050407940" seo="true" ref="index"/>
+    <file name="chicago187x116_2x.jpg" crc="136128397" seo="true" ref="index"/>
+    <file name="updates19109x109.png" crc="220692903" seo="true" ref="index"/>
+    <file name="updates19109x109_2x.png" crc="4265364093" seo="true" ref="index"/>
+    <file name="dc.jpg" crc="90502607" seo="true" ref="index"/>
+    <file name="dc_2x.jpg" crc="4065474996" seo="true" ref="index"/>
+    <file name="updates1994x94.png" crc="445615361" seo="true" ref="index"/>
+    <file name="updates1994x94_2x.png" crc="3786996331" seo="true" ref="index"/>
+    <file name="dc375x232.jpg" crc="4025833862" seo="true" ref="index"/>
+    <file name="dc375x232_2x.jpg" crc="4216561061" seo="true" ref="index"/>
+    <file name="updates1983x83.png" crc="30044630" seo="true" ref="index"/>
+    <file name="updates1983x83_2x.png" crc="485075361" seo="true" ref="index"/>
+    <file name="dc320x198.jpg" crc="67190433" seo="true" ref="index"/>
+    <file name="dc320x198_2x.jpg" crc="80368954" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3841195624" seo="true" mt="1555511065865" redirect="true"/>
-  <file name="wineries.html" crc="188774619" seo="true" mt="1555510078777" redirect="true"/>
-  <file name="2018-wine-list.html" crc="3780296935" seo="true" mt="1553607874461" redirect="true"/>
-  <file name="wineries---no-countries.html" crc="4087970640" seo="true" mt="1553607874461" redirect="true"/>
+  <file name="index.html" crc="152051654" seo="true" mt="1560367404498" redirect="true"/>
+  <file name="wineries.html" crc="45114881" seo="true" mt="1560367124801" redirect="true"/>
+  <file name="2018-wine-list.html" crc="238923720" seo="true" mt="1560367124801" redirect="true"/>
+  <file name="wineries---no-countries.html" crc="190840970" seo="true" mt="1560367124801" redirect="true"/>
 </manifest>
