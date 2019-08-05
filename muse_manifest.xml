@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1560367484772">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="grandtour2019.com" resolutions="1x,2x" timestamp="1565031812245">
   <folder name="assets">
     <file name="gt19_vegas_mapltr_p.pdf" crc="72016614" seo="true" mt="1554748878000"/>
     <file name="chicagomapltr_p.pdf" crc="3825488793" seo="true" mt="1554748878000"/>
@@ -7,10 +7,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="31939975"/>
-    <file name="master_a-master.css" crc="384021629" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
+    <file name="master_a-master.css" crc="79980010" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
     <file name="nomq_preview_master_a-master.css" crc="17830151" ref="index:2018-wine-list:wineries:wineries---no-countries"/>
-    <file name="index.css" crc="3838750100" ref="index"/>
-    <file name="nomq_index.css" crc="4278163127" ref="index"/>
+    <file name="index.css" crc="4277073717" ref="index"/>
+    <file name="nomq_index.css" crc="385201647" ref="index"/>
     <file name="2018-wine-list.css" crc="114844738" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="3821147557" ref="2018-wine-list"/>
     <file name="wineries.css" crc="92754110" ref="wineries"/>
@@ -344,46 +344,30 @@
     <file name="updates19_2x.png" crc="4247053039" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
     <file name="grand-tour-logo-crop-u37925.png" crc="3884236146" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
     <file name="grand-tour-logo-crop-u37925_2x.png" crc="305054876" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="dc402x248.jpg" crc="183544981" seo="true" ref="index"/>
-    <file name="dc402x248_2x.jpg" crc="439969803" seo="true" ref="index"/>
-    <file name="chicago394x244.jpg" crc="4083124859" seo="true" ref="index"/>
-    <file name="chicago394x244_2x.jpg" crc="268543093" seo="true" ref="index"/>
     <file name="updates19162x162.png" crc="4078096746" seo="true" ref="index"/>
     <file name="updates19162x162_2x.png" crc="320675371" seo="true" ref="index"/>
     <file name="dc343x212.jpg" crc="4008808508" seo="true" ref="index"/>
     <file name="dc343x212_2x.jpg" crc="4005911338" seo="true" ref="index"/>
-    <file name="chicago336x208.jpg" crc="3874630140" seo="true" ref="index"/>
-    <file name="chicago336x208_2x.jpg" crc="4233709612" seo="true" ref="index"/>
     <file name="updates19152x152.png" crc="532561748" seo="true" ref="index"/>
     <file name="updates19152x152_2x.png" crc="4267306273" seo="true" ref="index"/>
     <file name="dc321x199.jpg" crc="296414152" seo="true" ref="index"/>
     <file name="dc321x199_2x.jpg" crc="4226024495" seo="true" ref="index"/>
-    <file name="chicago315x195.jpg" crc="4184320945" seo="true" ref="index"/>
-    <file name="chicago315x195_2x.jpg" crc="418653188" seo="true" ref="index"/>
     <file name="updates19135x135.png" crc="4195064852" seo="true" ref="index"/>
     <file name="updates19135x135_2x.png" crc="4042782676" seo="true" ref="index"/>
     <file name="dc285x176.jpg" crc="155210659" seo="true" ref="index"/>
     <file name="dc285x176_2x.jpg" crc="250923030" seo="true" ref="index"/>
-    <file name="chicago279x173.jpg" crc="177415992" seo="true" ref="index"/>
-    <file name="chicago279x173_2x.jpg" crc="434229824" seo="true" ref="index"/>
     <file name="updates19122x122.png" crc="459603328" seo="true" ref="index"/>
     <file name="updates19122x122_2x.png" crc="3923791558" seo="true" ref="index"/>
     <file name="dc257x159.jpg" crc="31003192" seo="true" ref="index"/>
     <file name="dc257x159_2x.jpg" crc="4025749065" seo="true" ref="index"/>
-    <file name="chicago252x156.jpg" crc="3936606594" seo="true" ref="index"/>
-    <file name="chicago252x156_2x.jpg" crc="3814557604" seo="true" ref="index"/>
     <file name="updates19106x106.png" crc="82471646" seo="true" ref="index"/>
     <file name="updates19106x106_2x.png" crc="478586646" seo="true" ref="index"/>
     <file name="dc223x138.jpg" crc="158793505" seo="true" ref="index"/>
     <file name="dc223x138_2x.jpg" crc="4213289336" seo="true" ref="index"/>
-    <file name="chicago219x136.jpg" crc="4227974939" seo="true" ref="index"/>
-    <file name="chicago219x136_2x.jpg" crc="444514171" seo="true" ref="index"/>
     <file name="updates1990x90.png" crc="3999272500" seo="true" ref="index"/>
     <file name="updates1990x90_2x.png" crc="468482296" seo="true" ref="index"/>
     <file name="dc190x118.jpg" crc="3810767837" seo="true" ref="index"/>
     <file name="dc190x118_2x.jpg" crc="482402261" seo="true" ref="index"/>
-    <file name="chicago187x116.jpg" crc="4050407940" seo="true" ref="index"/>
-    <file name="chicago187x116_2x.jpg" crc="136128397" seo="true" ref="index"/>
     <file name="updates19109x109.png" crc="220692903" seo="true" ref="index"/>
     <file name="updates19109x109_2x.png" crc="4265364093" seo="true" ref="index"/>
     <file name="dc.jpg" crc="90502607" seo="true" ref="index"/>
@@ -396,8 +380,24 @@
     <file name="updates1983x83_2x.png" crc="485075361" seo="true" ref="index"/>
     <file name="dc320x198.jpg" crc="67190433" seo="true" ref="index"/>
     <file name="dc320x198_2x.jpg" crc="80368954" seo="true" ref="index"/>
+    <file name="chicago-crop-u38899.jpg" crc="4130645648" ref="index"/>
+    <file name="chicago-crop-u38899_2x.jpg" crc="476850781" ref="index"/>
+    <file name="dc402x249.jpg" crc="183544981" seo="true" ref="index"/>
+    <file name="dc402x249_2x.jpg" crc="439969803" seo="true" ref="index"/>
+    <file name="chicago-crop-u388992.jpg" crc="198917310" ref="index"/>
+    <file name="chicago-crop-u38899_2x2.jpg" crc="415806684" ref="index"/>
+    <file name="chicago-crop-u388993.jpg" crc="482396093" ref="index"/>
+    <file name="chicago-crop-u38899_2x3.jpg" crc="3767974" ref="index"/>
+    <file name="chicago-crop-u388994.jpg" crc="309074904" ref="index"/>
+    <file name="chicago-crop-u38899_2x4.jpg" crc="409773920" ref="index"/>
+    <file name="chicago-crop-u388995.jpg" crc="496647283" ref="index"/>
+    <file name="chicago-crop-u38899_2x5.jpg" crc="336304947" ref="index"/>
+    <file name="chicago-crop-u388996.jpg" crc="3905029267" ref="index"/>
+    <file name="chicago-crop-u38899_2x6.jpg" crc="3859900534" ref="index"/>
+    <file name="chicago-crop-u388997.jpg" crc="4149059028" ref="index"/>
+    <file name="chicago-crop-u38899_2x7.jpg" crc="3834383656" ref="index"/>
   </folder>
-  <file name="index.html" crc="152051654" seo="true" mt="1560367404498" redirect="true"/>
+  <file name="index.html" crc="68790887" seo="true" mt="1565031761048" redirect="true"/>
   <file name="wineries.html" crc="45114881" seo="true" mt="1560367124801" redirect="true"/>
   <file name="2018-wine-list.html" crc="238923720" seo="true" mt="1560367124801" redirect="true"/>
   <file name="wineries---no-countries.html" crc="190840970" seo="true" mt="1560367124801" redirect="true"/>
