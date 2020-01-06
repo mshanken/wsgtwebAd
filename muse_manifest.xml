@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1576769384347">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1578334202088">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="338294936" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
+    <file name="master_a-master.css" crc="4034963131" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="nomq_preview_master_a-master.css" crc="290801235" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="2018-wine-list.css" crc="4259822758" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="534153955" ref="2018-wine-list"/>
     <file name="wineries---no-countries.css" crc="63074966" ref="wineries---no-countries"/>
     <file name="nomq_wineries---no-countries.css" crc="517920170" ref="wineries---no-countries"/>
-    <file name="index.css" crc="433134315" ref="index"/>
+    <file name="index.css" crc="290515816" ref="index"/>
     <file name="nomq_index.css" crc="3953655467" ref="index"/>
     <file name="wineries.css" crc="11747597" ref="wineries"/>
     <file name="nomq_wineries.css" crc="3817421878" ref="wineries"/>
@@ -1164,7 +1164,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3884069845" seo="true" mt="1576769350275" redirect="true"/>
+  <file name="index.html" crc="275175124" seo="true" mt="1578334172381" redirect="true"/>
   <file name="wineries.html" crc="309426688" seo="true" mt="1576180224472" redirect="true"/>
   <file name="2018-wine-list.html" crc="41588964" seo="true" mt="1576180224472" redirect="true"/>
   <file name="wineries---no-countries.html" crc="414253165" seo="true" mt="1576180224472" redirect="true"/>
