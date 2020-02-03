@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1578334202088">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1580755071768">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="4034963131" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="3918627484" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="nomq_preview_master_a-master.css" crc="290801235" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="2018-wine-list.css" crc="4259822758" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="534153955" ref="2018-wine-list"/>
     <file name="wineries---no-countries.css" crc="63074966" ref="wineries---no-countries"/>
     <file name="nomq_wineries---no-countries.css" crc="517920170" ref="wineries---no-countries"/>
-    <file name="index.css" crc="290515816" ref="index"/>
-    <file name="nomq_index.css" crc="3953655467" ref="index"/>
-    <file name="wineries.css" crc="11747597" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="3817421878" ref="wineries"/>
+    <file name="index.css" crc="155747411" ref="index"/>
+    <file name="nomq_index.css" crc="56191706" ref="index"/>
+    <file name="wineries.css" crc="489458959" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="486341740" ref="wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -38,30 +38,30 @@
     <file name="require.js" crc="7928878" ref="index:wineries:2018-wine-list:wineries---no-countries"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4220636928" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4220636928" ref="index:wineries"/>
     <file name="top-pour2020-r1.jpg" crc="4103532321" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="top-pour2020-r1_2x.jpg" crc="34265399" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="tix-on-sale.png" crc="12924269" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="tix-on-sale_2x.png" crc="4043390625" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="grand-tour-logo-crop-u37925.png" crc="484220178" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
@@ -84,16 +84,6 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
@@ -104,6 +94,16 @@
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="grand-tour-logo-crop-u37925_2x.png" crc="53615862" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
@@ -126,16 +126,6 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
@@ -146,6 +136,16 @@
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="two-men2020.jpg" crc="13597087" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -210,17 +210,21 @@
     <file name="glass_2x.jpg" crc="146357434" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r11024x683.jpg" crc="377287440" seo="true" ref="index">
+    <file name="top-pour2020-r11024x683.jpg" crc="377287440" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r11024x683_2x.jpg" crc="383314686" seo="true" ref="index">
+    <file name="top-pour2020-r11024x683_2x.jpg" crc="383314686" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale162x162.png" crc="4220720481" seo="true" ref="index">
+    <file name="tix-on-sale162x162.png" crc="4220720481" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale162x162_2x.png" crc="271150733" seo="true" ref="index">
+    <file name="tix-on-sale162x162_2x.png" crc="271150733" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020308x228.jpg" crc="4084803478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -285,17 +289,21 @@
     <file name="glass464x721_2x.jpg" crc="3796635756" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r1960x641.jpg" crc="3825306975" seo="true" ref="index">
+    <file name="top-pour2020-r1960x641.jpg" crc="3825306975" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r1960x641_2x.jpg" crc="3996593625" seo="true" ref="index">
+    <file name="top-pour2020-r1960x641_2x.jpg" crc="3996593625" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale152x152.png" crc="319718233" seo="true" ref="index">
+    <file name="tix-on-sale152x152.png" crc="319718233" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale152x152_2x.png" crc="281000551" seo="true" ref="index">
+    <file name="tix-on-sale152x152_2x.png" crc="281000551" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020289x214.jpg" crc="4169437548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -360,17 +368,21 @@
     <file name="glass435x676_2x.jpg" crc="282319292" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r1851x567.jpg" crc="484751673" seo="true" ref="index">
+    <file name="top-pour2020-r1851x567.jpg" crc="484751673" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r1851x567_2x.jpg" crc="3899384094" seo="true" ref="index">
+    <file name="top-pour2020-r1851x567_2x.jpg" crc="3899384094" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale135x134.png" crc="386642395" seo="true" ref="index">
+    <file name="tix-on-sale135x134.png" crc="386642395" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale135x134_2x.png" crc="77570071" seo="true" ref="index">
+    <file name="tix-on-sale135x134_2x.png" crc="77570071" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020256x190.jpg" crc="4246795051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -435,17 +447,21 @@
     <file name="glass385x598_2x.jpg" crc="492091380" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r1768x513.jpg" crc="387203986" seo="true" ref="index">
+    <file name="top-pour2020-r1768x513.jpg" crc="387203986" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r1768x513_2x.jpg" crc="4240700007" seo="true" ref="index">
+    <file name="top-pour2020-r1768x513_2x.jpg" crc="4240700007" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale122x121.png" crc="4032871301" seo="true" ref="index">
+    <file name="tix-on-sale122x121.png" crc="4032871301" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale122x121_2x.png" crc="346185433" seo="true" ref="index">
+    <file name="tix-on-sale122x121_2x.png" crc="346185433" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020231x171.jpg" crc="4285619752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -510,17 +526,21 @@
     <file name="glass348x541_2x.jpg" crc="147975471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r1667x445.jpg" crc="3926336642" seo="true" ref="index">
+    <file name="top-pour2020-r1667x445.jpg" crc="3926336642" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r1667x445_2x.jpg" crc="3889244018" seo="true" ref="index">
+    <file name="top-pour2020-r1667x445_2x.jpg" crc="3889244018" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale106x106.png" crc="247228693" seo="true" ref="index">
+    <file name="tix-on-sale106x106.png" crc="247228693" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale106x106_2x.png" crc="3859743351" seo="true" ref="index">
+    <file name="tix-on-sale106x106_2x.png" crc="3859743351" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020201x149.jpg" crc="3923156337" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -585,17 +605,21 @@
     <file name="glass303x469_2x.jpg" crc="3865210970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="top-pour2020-r1568x379.jpg" crc="4128743281" seo="true" ref="index">
+    <file name="top-pour2020-r1568x379.jpg" crc="4128743281" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="top-pour2020-r1568x379_2x.jpg" crc="52253260" seo="true" ref="index">
+    <file name="top-pour2020-r1568x379_2x.jpg" crc="52253260" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale90x90.png" crc="3997101863" seo="true" ref="index">
+    <file name="tix-on-sale90x90.png" crc="3997101863" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale90x90_2x.png" crc="4253576153" seo="true" ref="index">
+    <file name="tix-on-sale90x90_2x.png" crc="4253576153" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020171x127.jpg" crc="1542486" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -663,20 +687,22 @@
     <file name="top-pour2020-mobile.jpg" crc="4246879303" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="top-pour2020-mobile_2x.jpg" crc="301990816" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
-    <file name="tix-on-sale109x109.png" crc="525021099" seo="true" ref="index">
+    <file name="tix-on-sale109x109.png" crc="525021099" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale109x109_2x.png" crc="90163611" seo="true" ref="index">
+    <file name="tix-on-sale109x109_2x.png" crc="90163611" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020205x152.jpg" crc="431615226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -757,26 +783,28 @@
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="top-pour2020-mobile-crop-u37869_2x.jpg" crc="472983863" seo="true" ref="index:wineries:2018-wine-list:wineries---no-countries">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
-    <file name="tix-on-sale94x94.png" crc="281695774" seo="true" ref="index">
+    <file name="tix-on-sale94x94.png" crc="281695774" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale94x94_2x.png" crc="160574511" seo="true" ref="index">
+    <file name="tix-on-sale94x94_2x.png" crc="160574511" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020186x138.jpg" crc="91121365" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -844,11 +872,13 @@
     <file name="exhibitor2020206x232_2x.jpg" crc="296174646" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tix-on-sale83x83.png" crc="3912274250" seo="true" ref="index">
+    <file name="tix-on-sale83x83.png" crc="3912274250" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="tix-on-sale83x83_2x.png" crc="4220554933" seo="true" ref="index">
+    <file name="tix-on-sale83x83_2x.png" crc="4220554933" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="two-men2020159x118.jpg" crc="158561605" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1103,69 +1133,69 @@
     <file name="couple2020140x198_2x.jpg" crc="4217475976" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020.jpg" crc="4227521949" seo="true" ref="index">
+    <file name="2020-wineries.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020_2x.jpg" crc="254197832" seo="true" ref="index">
+    <file name="2020-wineries_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020362x52.jpg" crc="503234046" seo="true" ref="index">
+    <file name="2020-wineries362x52.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020362x52_2x.jpg" crc="400861903" seo="true" ref="index">
+    <file name="2020-wineries362x52_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020340x49.jpg" crc="4232345388" seo="true" ref="index">
+    <file name="2020-wineries340x49.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020340x49_2x.jpg" crc="454393946" seo="true" ref="index">
+    <file name="2020-wineries340x49_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020301x43.jpg" crc="101663893" seo="true" ref="index">
+    <file name="2020-wineries301x43.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020301x43_2x.jpg" crc="395286426" seo="true" ref="index">
+    <file name="2020-wineries301x43_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020272x39.jpg" crc="4072027787" seo="true" ref="index">
+    <file name="2020-wineries272x39.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020272x39_2x.jpg" crc="4015416980" seo="true" ref="index">
+    <file name="2020-wineries272x39_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020236x34.jpg" crc="3847844291" seo="true" ref="index">
+    <file name="2020-wineries236x34.png" crc="418093505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020236x34_2x.jpg" crc="4182525277" seo="true" ref="index">
+    <file name="2020-wineries236x34_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020201x29.jpg" crc="3879762119" seo="true" ref="index">
+    <file name="2020-wineries201x29.png" crc="393489050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020201x29_2x.jpg" crc="3758687881" seo="true" ref="index">
+    <file name="2020-wineries201x29_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020211x31.jpg" crc="304082940" seo="true" ref="index">
+    <file name="2020-wineries211x31.png" crc="343836655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020211x31_2x.jpg" crc="462984253" seo="true" ref="index">
+    <file name="2020-wineries211x31_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020222x32.jpg" crc="4184575473" seo="true" ref="index">
+    <file name="2020-wineries222x32.png" crc="3764340963" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020222x32_2x.jpg" crc="4032404598" seo="true" ref="index">
+    <file name="2020-wineries222x32_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020211x30.jpg" crc="304082940" seo="true" ref="index">
+    <file name="2020-wineries211x30.png" crc="343836655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wines-coming-soon2020211x30_2x.jpg" crc="522202335" seo="true" ref="index">
+    <file name="2020-wineries211x30_2x.png" crc="3835886783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="275175124" seo="true" mt="1578334172381" redirect="true"/>
-  <file name="wineries.html" crc="309426688" seo="true" mt="1576180224472" redirect="true"/>
+  <file name="index.html" crc="511687387" seo="true" mt="1580225714401" redirect="true"/>
+  <file name="wineries.html" crc="368387841" seo="true" mt="1580755020822" redirect="true"/>
   <file name="2018-wine-list.html" crc="41588964" seo="true" mt="1576180224472" redirect="true"/>
   <file name="wineries---no-countries.html" crc="414253165" seo="true" mt="1576180224472" redirect="true"/>
 </manifest>
