@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1582815553297">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1582822254192">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="214720307" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
+    <file name="master_a-master.css" crc="343020753" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="nomq_preview_master_a-master.css" crc="290801235" ref="2018-wine-list:wineries---no-countries:index:wineries"/>
     <file name="2018-wine-list.css" crc="4259822758" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="534153955" ref="2018-wine-list"/>
@@ -9,8 +9,8 @@
     <file name="nomq_wineries---no-countries.css" crc="517920170" ref="wineries---no-countries"/>
     <file name="index.css" crc="155747411" ref="index"/>
     <file name="nomq_index.css" crc="56191706" ref="index"/>
-    <file name="wineries.css" crc="4253001224" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="244909464" ref="wineries"/>
+    <file name="wineries.css" crc="4080286266" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="358528830" ref="wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -1195,7 +1195,7 @@
     </file>
   </folder>
   <file name="index.html" crc="511687387" seo="true" mt="1580225714401" redirect="true"/>
-  <file name="wineries.html" crc="431117401" seo="true" mt="1582815477215" redirect="true"/>
+  <file name="wineries.html" crc="519182363" seo="true" mt="1582822229702" redirect="true"/>
   <file name="2018-wine-list.html" crc="41588964" seo="true" mt="1576180224472" redirect="true"/>
   <file name="wineries---no-countries.html" crc="414253165" seo="true" mt="1576180224472" redirect="true"/>
 </manifest>
