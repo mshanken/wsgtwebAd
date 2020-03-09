@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2020.com/index.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -288,12 +288,6 @@
       <image:loc>http://grandtour2020.com/images/dc285x176_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room144x36.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room144x36_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/group-of-ladies2020461x309.jpg</image:loc>
     </image:image>
     <image:image>
@@ -363,12 +357,6 @@
       <image:loc>http://grandtour2020.com/images/dc257x159_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room130x32.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room130x32_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/group-of-ladies2020417x279.jpg</image:loc>
     </image:image>
     <image:image>
@@ -436,12 +424,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/dc223x138_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room113x28.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room113x28_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/group-of-ladies2020362x242.jpg</image:loc>
@@ -1015,6 +997,18 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/2020-wineries211x30_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/reserve-a-room181x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/reserve-a-room181x45_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/reserve-a-room154x38.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/reserve-a-room154x38_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
