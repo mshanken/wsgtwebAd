@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1604608430906">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1604609317511">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
     <file name="2018-wine-list.css" crc="444192620" ref="2018-wine-list"/>
     <file name="nomq_2018-wine-list.css" crc="4250069024" ref="2018-wine-list"/>
     <file name="wineries---no-countries.css" crc="4119893751" ref="wineries---no-countries"/>
     <file name="nomq_wineries---no-countries.css" crc="3990229164" ref="wineries---no-countries"/>
-    <file name="index.css" crc="3887553206" ref="index"/>
-    <file name="nomq_index.css" crc="4040240115" ref="index"/>
+    <file name="index.css" crc="3815406708" ref="index"/>
+    <file name="nomq_index.css" crc="3932151918" ref="index"/>
     <file name="wineries.css" crc="488776477" ref="wineries"/>
     <file name="nomq_wineries.css" crc="124828096" ref="wineries"/>
     <file name="master_no-notice.css" crc="424288745" ref="wineries:2018-wine-list:wineries---no-countries"/>
     <file name="nomq_preview_master_no-notice.css" crc="3935194906" ref="wineries:2018-wine-list:wineries---no-countries"/>
-    <file name="master_a-master.css" crc="3857948636" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="30330953" ref="index"/>
+    <file name="master_a-master.css" crc="4166325336" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="242965621" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -1127,12 +1127,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="200-wines.png" crc="420894495" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines_2x.png" crc="465479541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grand-tour-logo-crop-u37925.png" crc="484220178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1157,48 +1151,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="200-wines162x161.png" crc="116447058" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines162x161_2x.png" crc="465479541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines152x151.png" crc="4158372572" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines152x151_2x.png" crc="4263987564" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines134x134.png" crc="3993650575" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines134x134_2x.png" crc="271382698" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines121x121.png" crc="3843856241" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines121x121_2x.png" crc="4294595914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines106x105.png" crc="214974442" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines106x105_2x.png" crc="143394647" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines90x90.png" crc="3852018221" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines90x90_2x.png" crc="4100568514" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines109x109.png" crc="333432143" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="200-wines109x109_2x.png" crc="4240402413" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top-pour2020-mobile-crop-u37869.jpg" crc="3795255602" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1207,20 +1159,68 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="200-wines94x94.png" crc="504582349" seo="true" ref="index">
+    <file name="sign-up20189x189.png" crc="3862805033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="200-wines94x94_2x.png" crc="4168569889" seo="true" ref="index">
+    <file name="sign-up20189x189_2x.png" crc="3768848063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="200-wines83x83.png" crc="89374883" seo="true" ref="index">
+    <file name="sign-up20161x161.png" crc="101288956" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="200-wines83x83_2x.png" crc="3876048707" seo="true" ref="index">
+    <file name="sign-up20161x161_2x.png" crc="3768848063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20151x151.png" crc="113663257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20151x151_2x.png" crc="3768848063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20134x134.png" crc="3857972137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20134x134_2x.png" crc="3768848063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20121x121.png" crc="344459848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20121x121_2x.png" crc="3768848063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20105x105.png" crc="414939878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20105x105_2x.png" crc="4038407393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2090x90.png" crc="3899847659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2090x90_2x.png" crc="176968739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20109x109.png" crc="3779638504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up20109x109_2x.png" crc="3768848063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2094x94.png" crc="43182005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2094x94_2x.png" crc="396057091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2083x83.png" crc="3843718768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign-up2083x83_2x.png" crc="348518033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3771035338" seo="true" mt="1604608380199" redirect="true"/>
+  <file name="index.html" crc="4159180794" seo="true" mt="1604609288862" redirect="true"/>
   <file name="wineries.html" crc="216853954" seo="true" mt="1604595071609" redirect="true"/>
   <file name="2018-wine-list.html" crc="421496031" seo="true" mt="1604595071609" redirect="true"/>
   <file name="wineries---no-countries.html" crc="4161779586" seo="true" mt="1604595071609" redirect="true"/>
