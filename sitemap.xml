@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2020.com/index.html</loc>
-    <lastmod>2020-06-23</lastmod>
+    <lastmod>2020-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,12 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/top-pour2020-r1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u37925.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u37925_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020.jpg</image:loc>
@@ -519,12 +513,6 @@
       <image:loc>http://grandtour2020.com/images/exhibitor2020227x256_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u37869.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u37869_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020186x138.jpg</image:loc>
     </image:image>
     <image:image>
@@ -885,64 +873,94 @@
       <image:loc>http://grandtour2020.com/images/2020-wineries211x30_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200414x135.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room216x54.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200375x122.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room216x54_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200375x122_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room185x46.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200320x104.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room185x46_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/200320x104_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room181x45.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room181x45_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room163x40.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021406x52.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room163x40_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021406x52_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room154x38.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021380x49.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room154x38_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021380x49_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room123x31.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021337x43.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room123x31_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021337x43_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room194x48.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021304x39.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room194x48_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021304x39_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room183x46.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021265x34.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/reserve-a-room183x46_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021265x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021225x29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021225x29_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021274x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021274x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021275x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021275x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021251x32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021251x32_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u37925.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u37925_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines162x161.png</image:loc>
@@ -987,10 +1005,10 @@
       <image:loc>http://grandtour2020.com/images/200-wines109x109_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/200414x135.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u37869.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/200_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u37869_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines94x94.png</image:loc>
@@ -999,27 +1017,15 @@
       <image:loc>http://grandtour2020.com/images/200-wines94x94_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/200375x122.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/200375x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines83x83.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200-wines83x83_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/200320x104.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/200320x104_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/2018-wine-list.html</loc>
-    <lastmod>2020-03-20</lastmod>
+    <lastmod>2020-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1047,15 +1053,15 @@
       <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/wineries.html</loc>
-    <lastmod>2020-03-20</lastmod>
+    <lastmod>2020-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1083,15 +1089,15 @@
       <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/wineries---no-countries.html</loc>
-    <lastmod>2020-06-05</lastmod>
+    <lastmod>2020-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1119,64 +1125,10 @@
       <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up162x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up162x162_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up152x152.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up152x152_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up134x134.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up134x134_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up121x121.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up121x121_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up106x106.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up106x106_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up90x90.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up90x90_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up109x109.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up109x109_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up94x94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up94x94_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up83x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up83x83_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
     </image:image>
   </url>
   <url>
