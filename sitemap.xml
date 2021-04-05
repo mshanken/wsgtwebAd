@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2020.com/index.html</loc>
-    <lastmod>2020-12-22</lastmod>
+    <lastmod>2021-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020.jpg</image:loc>
     </image:image>
@@ -67,12 +61,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/glass_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r11024x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r11024x683_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020308x228.jpg</image:loc>
@@ -132,12 +120,6 @@
       <image:loc>http://grandtour2020.com/images/glass464x721_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1960x641.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1960x641_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020289x214.jpg</image:loc>
     </image:image>
     <image:image>
@@ -193,12 +175,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/glass435x676_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1851x567.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1851x567_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020256x190.jpg</image:loc>
@@ -258,12 +234,6 @@
       <image:loc>http://grandtour2020.com/images/glass385x598_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1768x513.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1768x513_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020231x171.jpg</image:loc>
     </image:image>
     <image:image>
@@ -319,12 +289,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/glass348x541_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1667x445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1667x445_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020201x149.jpg</image:loc>
@@ -384,12 +348,6 @@
       <image:loc>http://grandtour2020.com/images/glass303x469_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1568x379.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1568x379_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020171x127.jpg</image:loc>
     </image:image>
     <image:image>
@@ -445,12 +403,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/glass258x400_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/two-men2020205x152.jpg</image:loc>
@@ -873,18 +825,6 @@
       <image:loc>http://grandtour2020.com/images/2020-wineries211x30_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2020.com/images/200414x135.png</image:loc>
     </image:image>
     <image:image>
@@ -901,12 +841,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/200320x104_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021.jpg</image:loc>
@@ -969,166 +903,358 @@
       <image:loc>http://grandtour2020.com/images/wineries-coming-soon2021251x32_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20134x134.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20134x134_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20121x121.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20121x121_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2090x90.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x1024x683.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2090x90_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x1024x683_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20109x109.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21162x162.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20109x109_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21162x162_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2094x94.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x960x641.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2094x94_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x960x641_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2083x83.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21152x152.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up2083x83_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21152x152_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20162x162.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x851x567.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20162x162_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x851x567_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20152x152.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21134x134.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20152x152_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21134x134_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20106x106.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x768x513.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20106x106_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x768x513_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up21121x121.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up21121x121_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x667x445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x667x445_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up21106x106.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up21106x106_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x568x379.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x568x379_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2190x90.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2190x90_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x414x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x414x276_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x375x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x375x250_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x320x214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x320x214_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021339x44.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021339x44_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021339x44.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021339x44_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021290x37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021290x37_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021290x37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021290x37_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021272x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021272x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021272x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021272x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021241x31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021241x31_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021241x31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021241x31_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021217x28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021217x28_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021217x28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021217x28_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021189x24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021189x24_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021189x24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021189x24_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021161x21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021161x21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021161x21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021161x21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2170x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2170x70_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2162x62.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2162x62_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021337x43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021337x43_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021337x43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021337x43_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2150x50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/sign-up2150x50_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021278x36.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-ga2021278x36_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021278x36.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/ticket-button-vip2021278x36_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block282x36.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block282x36_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block264x34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block264x34_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block234x30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block234x30_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block212x27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block212x27_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block184x24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block184x24_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block157x20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block157x20_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block287x37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block287x37_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block272x35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block272x35_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block246x32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/room-block246x32_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/2018-wine-list.html</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2021-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/wineries.html</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2021-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/wineries---no-countries.html</loc>
-    <lastmod>2020-12-18</lastmod>
+    <lastmod>2021-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-r1_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/grand-tour-logo-crop-u42269_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/top-pour2020-mobile-crop-u42266_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/sign-up20_2x.png</image:loc>
+      <image:loc>http://grandtour2020.com/images/sign-up21_2x.png</image:loc>
     </image:image>
   </url>
   <url>
