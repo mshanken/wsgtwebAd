@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1620678695118">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1624296198365">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="index.css" crc="171469395" ref="index"/>
-    <file name="nomq_index.css" crc="52239197" ref="index"/>
-    <file name="wineries.css" crc="3853188669" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="163265387" ref="wineries"/>
-    <file name="master_no-notice.css" crc="263014586" ref="wineries:index"/>
+    <file name="index.css" crc="4210724755" ref="index"/>
+    <file name="nomq_index.css" crc="240610834" ref="index"/>
+    <file name="wineries.css" crc="360260128" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="3968118914" ref="wineries"/>
+    <file name="master_no-notice.css" crc="3884743303" ref="wineries:index"/>
     <file name="nomq_preview_master_no-notice.css" crc="4111669833" ref="wineries:index"/>
   </folder>
   <folder name="fonts">
@@ -794,66 +794,6 @@
     <file name="couple2020140x198_2x.jpg" crc="4217475976" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-wineries.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries362x52.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries362x52_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries340x49.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries340x49_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries301x43.png" crc="4202206020" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries301x43_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries272x39.png" crc="521424924" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries272x39_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries236x34.png" crc="3900537837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries236x34_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries201x29.png" crc="125660101" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries201x29_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries211x31.png" crc="237419978" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries211x31_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries222x32.png" crc="323953157" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries222x32_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries211x30.png" crc="237419978" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2020-wineries211x30_2x.png" crc="483293755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="200414x135.png" crc="3764090333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -872,132 +812,90 @@
     <file name="200320x104_2x.png" crc="3764090333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wineries-coming-soon2021.jpg" crc="70824667" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021_2x.jpg" crc="423509260" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021406x52.jpg" crc="495508104" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021406x52_2x.jpg" crc="3978397694" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021380x49.jpg" crc="320493455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021380x49_2x.jpg" crc="3906897675" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021337x43.jpg" crc="3783791913" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021337x43_2x.jpg" crc="99472905" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021304x39.jpg" crc="366299119" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021304x39_2x.jpg" crc="4012897051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021265x34.jpg" crc="3903585409" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021265x34_2x.jpg" crc="302340241" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021225x29.jpg" crc="3954626836" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021225x29_2x.jpg" crc="3969232650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021274x35.jpg" crc="3807627438" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021274x35_2x.jpg" crc="329222449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021275x35.jpg" crc="3807627438" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021275x35_2x.jpg" crc="329222449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021251x32.jpg" crc="4169857471" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wineries-coming-soon2021251x32_2x.jpg" crc="4059351328" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="no-notice-favicon.ico" crc="4220636928" ref="index"/>
+    <file name="no-notice-favicon.ico" crc="4220636928" ref="index:wineries"/>
     <file name="gt-hero_2x.jpg" crc="165680398" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="gt-hero_2x_2x.jpg" crc="342090097" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="wineries---no-countries" alt=""/>
     </file>
-    <file name="gt-hero_2x1024x683.jpg" crc="3769342631" seo="true" ref="index">
+    <file name="gt-hero_2x1024x683.jpg" crc="3769342631" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x1024x683_2x.jpg" crc="68778919" seo="true" ref="index">
+    <file name="gt-hero_2x1024x683_2x.jpg" crc="68778919" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x960x641.jpg" crc="27113692" seo="true" ref="index">
+    <file name="gt-hero_2x960x641.jpg" crc="27113692" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x960x641_2x.jpg" crc="434868887" seo="true" ref="index">
+    <file name="gt-hero_2x960x641_2x.jpg" crc="434868887" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x851x567.jpg" crc="534916636" seo="true" ref="index">
+    <file name="gt-hero_2x851x567.jpg" crc="534916636" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x851x567_2x.jpg" crc="380541005" seo="true" ref="index">
+    <file name="gt-hero_2x851x567_2x.jpg" crc="380541005" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x768x513.jpg" crc="3858890107" seo="true" ref="index">
+    <file name="gt-hero_2x768x513.jpg" crc="3858890107" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x768x513_2x.jpg" crc="4146128629" seo="true" ref="index">
+    <file name="gt-hero_2x768x513_2x.jpg" crc="4146128629" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x667x445.jpg" crc="287222416" seo="true" ref="index">
+    <file name="gt-hero_2x667x445.jpg" crc="287222416" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x667x445_2x.jpg" crc="70581006" seo="true" ref="index">
+    <file name="gt-hero_2x667x445_2x.jpg" crc="70581006" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x568x379.jpg" crc="514905199" seo="true" ref="index">
+    <file name="gt-hero_2x568x379.jpg" crc="514905199" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x568x379_2x.jpg" crc="532970239" seo="true" ref="index">
+    <file name="gt-hero_2x568x379_2x.jpg" crc="532970239" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x414x276.jpg" crc="4044784337" seo="true" ref="index">
+    <file name="gt-hero_2x414x276.jpg" crc="4044784337" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x414x276_2x.jpg" crc="84521842" seo="true" ref="index">
+    <file name="gt-hero_2x414x276_2x.jpg" crc="84521842" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x375x250.jpg" crc="4137619594" seo="true" ref="index">
+    <file name="gt-hero_2x375x250.jpg" crc="4137619594" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x375x250_2x.jpg" crc="3804683099" seo="true" ref="index">
+    <file name="gt-hero_2x375x250_2x.jpg" crc="3804683099" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x320x214.jpg" crc="4241435439" seo="true" ref="index">
+    <file name="gt-hero_2x320x214.jpg" crc="4241435439" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
-    <file name="gt-hero_2x320x214_2x.jpg" crc="84641892" seo="true" ref="index">
+    <file name="gt-hero_2x320x214_2x.jpg" crc="84641892" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="ticket-button-ga2021339x44.jpg" crc="30890551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1267,61 +1165,139 @@
       <caption webpage="index" alt=""/>
       <caption webpage="wineries" alt=""/>
     </file>
-    <file name="buy21162x162.png" crc="4142438283" seo="true" ref="index">
+    <file name="buy21162x162.png" crc="4142438283" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21162x162_2x.png" crc="127752967" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21152x152.png" crc="3943617394" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21152x152_2x.png" crc="127752967" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21134x134.png" crc="3986138010" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21134x134_2x.png" crc="127752967" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21121x121.png" crc="4031742640" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21121x121_2x.png" crc="127752967" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21106x106.png" crc="361407470" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy21106x106_2x.png" crc="337972395" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2190x90.png" crc="4036228795" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2190x90_2x.png" crc="3792151019" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2170x70.png" crc="374218247" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2170x70_2x.png" crc="4161019355" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2162x62.png" crc="4102273034" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2162x62_2x.png" crc="114338796" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2150x50.png" crc="536469712" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="buy2150x50_2x.png" crc="393381869" seo="true" ref="index:wineries">
+      <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+    </file>
+    <file name="2021-wineries.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21162x162_2x.png" crc="127752967" seo="true" ref="index">
+    <file name="2021-wineries_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21152x152.png" crc="3943617394" seo="true" ref="index">
+    <file name="2021-wineries362x52.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21152x152_2x.png" crc="127752967" seo="true" ref="index">
+    <file name="2021-wineries362x52_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21134x134.png" crc="3986138010" seo="true" ref="index">
+    <file name="2021-wineries340x49.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21134x134_2x.png" crc="127752967" seo="true" ref="index">
+    <file name="2021-wineries340x49_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21121x121.png" crc="4031742640" seo="true" ref="index">
+    <file name="2021-wineries301x43.png" crc="303073761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21121x121_2x.png" crc="127752967" seo="true" ref="index">
+    <file name="2021-wineries301x43_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21106x106.png" crc="361407470" seo="true" ref="index">
+    <file name="2021-wineries272x39.png" crc="3850896925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy21106x106_2x.png" crc="337972395" seo="true" ref="index">
+    <file name="2021-wineries272x39_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2190x90.png" crc="4036228795" seo="true" ref="index">
+    <file name="2021-wineries236x34.png" crc="4022595378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2190x90_2x.png" crc="3792151019" seo="true" ref="index">
+    <file name="2021-wineries236x34_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2170x70.png" crc="374218247" seo="true" ref="index">
+    <file name="2021-wineries201x29.png" crc="4112468806" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2170x70_2x.png" crc="4161019355" seo="true" ref="index">
+    <file name="2021-wineries201x29_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2162x62.png" crc="4102273034" seo="true" ref="index">
+    <file name="2021-wineries211x31.png" crc="200726001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2162x62_2x.png" crc="114338796" seo="true" ref="index">
+    <file name="2021-wineries211x31_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2150x50.png" crc="536469712" seo="true" ref="index">
+    <file name="2021-wineries222x32.png" crc="4179132484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="buy2150x50_2x.png" crc="393381869" seo="true" ref="index">
+    <file name="2021-wineries222x32_2x.png" crc="56134899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2021-wineries211x30.png" crc="200726001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2021-wineries211x30_2x.png" crc="56134899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="219899965" seo="true" mt="1620678668606" redirect="true"/>
-  <file name="wineries.html" crc="37688632" seo="true" mt="1620675001303" redirect="true"/>
+  <file name="index.html" crc="103743778" seo="true" mt="1623873437979" redirect="true"/>
+  <file name="wineries.html" crc="266019737" seo="true" mt="1624296100554" redirect="true"/>
 </manifest>
