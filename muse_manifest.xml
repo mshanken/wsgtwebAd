@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1634224083419">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1634828872357">
   <folder name="css">
-    <file name="site_global.css" crc="54365048"/>
-    <file name="index.css" crc="427082332" ref="index"/>
-    <file name="nomq_index.css" crc="240610834" ref="index"/>
+    <file name="site_global.css" crc="91036504"/>
+    <file name="index.css" crc="4074497348" ref="index"/>
+    <file name="nomq_index.css" crc="108145089" ref="index"/>
     <file name="wineries.css" crc="4076524025" ref="wineries"/>
     <file name="nomq_wineries.css" crc="4063422835" ref="wineries"/>
-    <file name="master_no-notice.css" crc="153128086" ref="wineries:index"/>
-    <file name="nomq_preview_master_no-notice.css" crc="3822216570" ref="wineries:index"/>
+    <file name="master_no-notice.css" crc="4260139501" ref="wineries:index"/>
+    <file name="nomq_preview_master_no-notice.css" crc="329079010" ref="wineries:index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -815,15 +815,15 @@
     <file name="no-notice-favicon.ico" crc="4220636928" ref="index:wineries"/>
     <file name="gt-hero_2x.jpg" crc="165680398" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="gt-hero_2x_2x.jpg" crc="342090097" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="gt-hero_2x1024x683.jpg" crc="3769342631" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
@@ -1298,6 +1298,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4251558922" seo="true" mt="1632931706758" redirect="true"/>
+  <file name="index.html" crc="3891036938" seo="true" mt="1634828826967" redirect="true"/>
   <file name="wineries.html" crc="3769685119" seo="true" mt="1634224052597" redirect="true"/>
 </manifest>
