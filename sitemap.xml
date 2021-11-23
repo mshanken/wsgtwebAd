@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2020.com/index.html</loc>
-    <lastmod>2021-11-18</lastmod>
+    <lastmod>2021-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1204,24 +1204,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://grandtour2020.com/wineries.html</loc>
-    <lastmod>2021-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/buy21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/buy21_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://grandtour2020.com/wine-list.html</loc>
     <lastmod>2021-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1348,32 +1330,26 @@
     </image:image>
   </url>
   <url>
-    <loc>http://grandtour2020.com/assets/gt19_miamimapltr_p.pdf</loc>
-    <lastmod>2019-04-08</lastmod>
+    <loc>http://grandtour2020.com/wineries.html</loc>
+    <lastmod>2021-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://grandtour2020.com/assets/chicagomapltr_p.pdf</loc>
-    <lastmod>2019-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/buy21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/buy21_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/assets/gtwinelist2019.pdf</loc>
     <lastmod>2019-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://grandtour2020.com/assets/gt21_washingtonfloor_ltr.pdf</loc>
-    <lastmod>2021-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://grandtour2020.com/assets/gt21_chicagofloor_ltr.pdf</loc>
-    <lastmod>2021-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1390,7 +1366,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://grandtour2020.com/assets/gt19_miamimapltr_p.pdf</loc>
+    <lastmod>2019-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/gt21_chicagofloor_ltr.pdf</loc>
+    <lastmod>2021-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/gt21_safety2.pdf</loc>
+    <lastmod>2021-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/chicagomapltr_p.pdf</loc>
+    <lastmod>2019-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://grandtour2020.com/assets/gt21_vegasfloor_ltr.pdf</loc>
+    <lastmod>2021-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/gt21_washingtonfloor_ltr.pdf</loc>
     <lastmod>2021-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
