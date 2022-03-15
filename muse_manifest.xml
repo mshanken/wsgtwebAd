@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1646664362766">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1647353434191">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="index.css" crc="118093132" ref="index"/>
-    <file name="nomq_index.css" crc="264362833" ref="index"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="index.css" crc="117547492" ref="index"/>
+    <file name="nomq_index.css" crc="3836811382" ref="index"/>
     <file name="wineries.css" crc="346914498" ref="wineries"/>
     <file name="nomq_wineries.css" crc="404400347" ref="wineries"/>
     <file name="wine-list.css" crc="3852258686" ref="wine-list"/>
     <file name="nomq_wine-list.css" crc="4263938124" ref="wine-list"/>
-    <file name="master_notice.css" crc="3826576451" ref="wine-list:index:wineries"/>
-    <file name="nomq_preview_master_notice.css" crc="167898696" ref="wine-list:index:wineries"/>
+    <file name="master_notice.css" crc="3760437026" ref="wine-list:index:wineries"/>
+    <file name="nomq_preview_master_notice.css" crc="4208328325" ref="wine-list:index:wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -182,17 +182,17 @@
     </file>
     <file name="gt-hero_2x.jpg" crc="165680398" seo="true" ref="index:wineries:wine-list">
       <caption webpage="index" alt=""/>
-      <caption webpage="2018-wine-list" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wine-list" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="gt-hero_2x_2x.jpg" crc="342090097" seo="true" ref="index:wineries:wine-list">
       <caption webpage="index" alt=""/>
-      <caption webpage="2018-wine-list" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wine-list" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
     </file>
     <file name="gt-hero_2x1024x683.jpg" crc="3769342631" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1392,56 +1392,56 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="notice-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="room-block-coming-soon.jpg" crc="227869166" seo="true" ref="index">
+    <file name="room-block2.jpg" crc="496952949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon_2x.jpg" crc="60342817" seo="true" ref="index">
+    <file name="room-block_2x2.jpg" crc="3980903434" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon260x34.jpg" crc="4121770212" seo="true" ref="index">
+    <file name="room-block260x342.jpg" crc="3839473794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon260x34_2x.jpg" crc="3926918272" seo="true" ref="index">
+    <file name="room-block260x34_2x2.jpg" crc="4157390548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon250x32.jpg" crc="335319423" seo="true" ref="index">
+    <file name="room-block250x322.jpg" crc="4210660986" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon250x32_2x.jpg" crc="3885533404" seo="true" ref="index">
+    <file name="room-block250x32_2x2.jpg" crc="364356688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon230x30.jpg" crc="4250646654" seo="true" ref="index">
+    <file name="room-block230x302.jpg" crc="3978036360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon230x30_2x.jpg" crc="4274828394" seo="true" ref="index">
+    <file name="room-block230x30_2x2.jpg" crc="195189534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon200x26.jpg" crc="273213048" seo="true" ref="index">
+    <file name="room-block200x262.jpg" crc="3776913286" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon200x26_2x.jpg" crc="4241512378" seo="true" ref="index">
+    <file name="room-block200x26_2x2.jpg" crc="4180453209" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon180x23.jpg" crc="271735525" seo="true" ref="index">
+    <file name="room-block180x232.jpg" crc="129111759" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon180x23_2x.jpg" crc="492106847" seo="true" ref="index">
+    <file name="room-block180x23_2x2.jpg" crc="167632781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon280x36.jpg" crc="455157662" seo="true" ref="index">
+    <file name="room-block280x362.jpg" crc="191169431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="room-block-coming-soon280x36_2x.jpg" crc="380189918" seo="true" ref="index">
+    <file name="room-block280x36_2x2.jpg" crc="444585261" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3884238450" seo="true" mt="1646664335595" redirect="true"/>
+  <file name="index.html" crc="3859089480" seo="true" mt="1647353400117" redirect="true"/>
   <file name="wineries.html" crc="3816950952" seo="true" mt="1645733680789" redirect="true"/>
   <file name="wine-list.html" crc="3806611417" seo="true" mt="1645733680789" redirect="true"/>
 </manifest>
