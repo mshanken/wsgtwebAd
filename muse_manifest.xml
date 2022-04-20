@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1650306012657">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1650477378489">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="index.css" crc="335805699" ref="index"/>
+    <file name="index.css" crc="4186933638" ref="index"/>
     <file name="nomq_index.css" crc="3884613825" ref="index"/>
-    <file name="wineries.css" crc="3768708258" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="4040997115" ref="wineries"/>
+    <file name="wineries.css" crc="256358311" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="226897167" ref="wineries"/>
     <file name="wine-list.css" crc="439770400" ref="wine-list"/>
     <file name="nomq_wine-list.css" crc="4263938124" ref="wine-list"/>
-    <file name="master_notice.css" crc="918344" ref="wine-list:index:wineries"/>
+    <file name="master_notice.css" crc="499188853" ref="wine-list:index:wineries"/>
     <file name="nomq_preview_master_notice.css" crc="167898696" ref="wine-list:index:wineries"/>
   </folder>
   <folder name="fonts">
@@ -182,16 +182,16 @@
     </file>
     <file name="gt-hero_2x.jpg" crc="165680398" seo="true" ref="index:wineries:wine-list">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="wine-list" alt=""/>
+      <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wineries" alt=""/>
     </file>
     <file name="gt-hero_2x_2x.jpg" crc="342090097" seo="true" ref="index:wineries:wine-list">
       <caption webpage="index" alt=""/>
-      <caption webpage="wineries---no-countries" alt=""/>
-      <caption webpage="2018-wine-list" alt=""/>
       <caption webpage="wine-list" alt=""/>
+      <caption webpage="2018-wine-list" alt=""/>
+      <caption webpage="wineries---no-countries" alt=""/>
       <caption webpage="wineries" alt=""/>
     </file>
     <file name="gt-hero_2x1024x683.jpg" crc="3769342631" seo="true" ref="index:wineries">
@@ -419,12 +419,6 @@
     <file name="2022wine-photo-crop-u38785.jpg" crc="4227897933" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine.jpg" crc="23739370" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine_2x.jpg" crc="4106729529" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new396x248.jpg" crc="3972835298" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -476,12 +470,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo1024x577.jpg" crc="3760836066" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine461x52.jpg" crc="4147845174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine461x52_2x.jpg" crc="3865191215" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="las-vegas-new338x212.jpg" crc="54091456" seo="true" ref="index">
@@ -537,12 +525,6 @@
     <file name="2022wine-photo960x541.jpg" crc="4069264888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine432x49.jpg" crc="4094580481" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine432x49_2x.jpg" crc="3876300113" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new317x199.jpg" crc="3852851591" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -594,12 +576,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo850x479.jpg" crc="463874350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine383x43.jpg" crc="444360639" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine383x43_2x.jpg" crc="36093769" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="las-vegas-new280x176.jpg" crc="3839269383" seo="true" ref="index">
@@ -655,12 +631,6 @@
     <file name="2022wine-photo768x433.jpg" crc="4037097882" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine346x39.jpg" crc="511599670" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine346x39_2x.jpg" crc="3926425882" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new253x159.jpg" crc="190796345" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -714,12 +684,6 @@
     <file name="2022wine-photo667x376.jpg" crc="350756825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine301x34.jpg" crc="3764073854" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine301x34_2x.jpg" crc="369194884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new220x138.jpg" crc="359046921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -771,12 +735,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo568x320.jpg" crc="276948637" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine256x29.jpg" crc="3832769172" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine256x29_2x.jpg" crc="393551727" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="las-vegas-new188x118.jpg" crc="41344430" seo="true" ref="index">
@@ -835,12 +793,6 @@
     <file name="2022wine-photo-mobile_2x.jpg" crc="3958004803" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine375x42.jpg" crc="365073045" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine375x42_2x.jpg" crc="3823660605" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new.jpg" crc="364391554" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -897,12 +849,6 @@
     <file name="2022wine-photo-mobile375x310_2x.jpg" crc="3772201979" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-wine336x38.jpg" crc="225195474" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine336x38_2x.jpg" crc="4133354482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="las-vegas-new375x236.jpg" crc="4046989593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -957,12 +903,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo-mobile320x264_2x.jpg" crc="3829273922" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine286x32.jpg" crc="3912300490" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-wine286x32_2x.jpg" crc="7445242" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="las-vegas-new320x201.jpg" crc="4208601393" seo="true" ref="index">
@@ -1440,8 +1380,68 @@
     <file name="2022-wineries225x32_2x.png" crc="40583681" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="2022-wine-list.jpg" crc="4183172192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list_2x.jpg" crc="458966574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list461x52.jpg" crc="3991983332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list461x52_2x.jpg" crc="3763994283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list432x49.jpg" crc="244922094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list432x49_2x.jpg" crc="4225690911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list383x43.jpg" crc="258094602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list383x43_2x.jpg" crc="3867704055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list346x39.jpg" crc="281750029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list346x39_2x.jpg" crc="4015289107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list301x34.jpg" crc="360176248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list301x34_2x.jpg" crc="427776019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list256x29.jpg" crc="324398763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list256x29_2x.jpg" crc="3847157508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list375x42.jpg" crc="3807793488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list375x42_2x.jpg" crc="4095347617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list336x38.jpg" crc="4024204940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list336x38_2x.jpg" crc="6264275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list286x32.jpg" crc="4160683341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-wine-list286x32_2x.jpg" crc="3825660564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3848729211" seo="true" mt="1650240800336" redirect="true"/>
-  <file name="wineries.html" crc="436190002" seo="true" mt="1650305981869" redirect="true"/>
+  <file name="index.html" crc="462166983" seo="true" mt="1650477351432" redirect="true"/>
+  <file name="wineries.html" crc="296241008" seo="true" mt="1650477109544" redirect="true"/>
   <file name="wine-list.html" crc="4004420569" seo="true" mt="1650240800336" redirect="true"/>
 </manifest>
