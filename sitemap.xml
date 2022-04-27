@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2020.com/index.html</loc>
-    <lastmod>2022-04-20</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1167,87 +1167,69 @@
       <image:loc>http://grandtour2020.com/images/2022-wineries225x32_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list461x52.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022231x52.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list461x52_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022231x52_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list432x49.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022217x49.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list432x49_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022217x49_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list383x43.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022192x43.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list383x43_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022192x43_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list346x39.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022174x39.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list346x39_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022174x39_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list301x34.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022151x34.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list301x34_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022151x34_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list256x29.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022129x29.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list256x29_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022129x29_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list375x42.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022170x38.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list375x42_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022170x38_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list336x38.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022166x37.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list336x38_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022166x37_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list286x32.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022144x32.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2020.com/images/2022-wine-list286x32_2x.jpg</image:loc>
+      <image:loc>http://grandtour2020.com/images/wine-list2022144x32_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://grandtour2020.com/wine-list.html</loc>
-    <lastmod>2022-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/buy21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2020.com/images/buy21_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://grandtour2020.com/wineries.html</loc>
-    <lastmod>2022-04-21</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1372,6 +1354,24 @@
     </image:image>
   </url>
   <url>
+    <loc>http://grandtour2020.com/wineries.html</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/gt-hero_2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/buy21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2020.com/images/buy21_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://grandtour2020.com/assets/gtwinelist2019.pdf</loc>
     <lastmod>2019-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1380,6 +1380,12 @@
   <url>
     <loc>http://grandtour2020.com/assets/ws-gt-wine-list-2021.pdf</loc>
     <lastmod>2021-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/gt21_vegasfloor_ltr.pdf</loc>
+    <lastmod>2021-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1396,14 +1402,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://grandtour2020.com/assets/gt21_chicagofloor_ltr.pdf</loc>
-    <lastmod>2021-11-19</lastmod>
+    <loc>http://grandtour2020.com/assets/gt21_safety2.pdf</loc>
+    <lastmod>2021-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://grandtour2020.com/assets/gt21_safety2.pdf</loc>
-    <lastmod>2021-11-22</lastmod>
+    <loc>http://grandtour2020.com/assets/ws-gt-wine-list-2022.pdf</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://grandtour2020.com/assets/ws-gt-wine-list-22.pdf</loc>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1414,14 +1426,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://grandtour2020.com/assets/gt21_vegasfloor_ltr.pdf</loc>
+    <loc>http://grandtour2020.com/assets/gt21_washingtonfloor_ltr.pdf</loc>
     <lastmod>2021-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://grandtour2020.com/assets/gt21_washingtonfloor_ltr.pdf</loc>
-    <lastmod>2021-11-17</lastmod>
+    <loc>http://grandtour2020.com/assets/gt21_chicagofloor_ltr.pdf</loc>
+    <lastmod>2021-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
