@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1654548179007">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2020.com" resolutions="1x,2x" timestamp="1655816385887">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="index.css" crc="497883811" ref="index"/>
-    <file name="nomq_index.css" crc="3867519191" ref="index"/>
+    <file name="index.css" crc="3944850704" ref="index"/>
+    <file name="nomq_index.css" crc="320975264" ref="index"/>
     <file name="wineries.css" crc="125258151" ref="wineries"/>
     <file name="nomq_wineries.css" crc="3762385618" ref="wineries"/>
     <file name="wine-list.css" crc="144089015" ref="wine-list"/>
     <file name="nomq_wine-list.css" crc="4096240730" ref="wine-list"/>
-    <file name="master_notice.css" crc="384922190" ref="wine-list:index:wineries"/>
+    <file name="master_notice.css" crc="3834440960" ref="wine-list:index:wineries"/>
     <file name="nomq_preview_master_notice.css" crc="167898696" ref="wine-list:index:wineries"/>
   </folder>
   <folder name="fonts">
@@ -400,22 +400,6 @@
     <file name="top2-2022_2x.jpg" crc="306199592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ticket-button-ga-2022339x44.jpg" crc="3778460969" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022339x44_2x.jpg" crc="385264158" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022339x44.jpg" crc="3858424500" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022339x44_2x.jpg" crc="155557861" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022wine-photo-crop-u38785.jpg" crc="4227897933" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -447,22 +431,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top2-2022308x228_2x.jpg" crc="435324277" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022290x37.jpg" crc="181821761" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022290x37_2x.jpg" crc="42962852" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022290x37.jpg" crc="163882879" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022290x37_2x.jpg" crc="4276735583" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo1024x577.jpg" crc="3760836066" seo="true" ref="index">
@@ -498,22 +466,6 @@
     <file name="top2-2022289x214_2x.jpg" crc="436168197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ticket-button-ga-2022272x35.jpg" crc="400870976" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022272x35_2x.jpg" crc="3948711394" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022272x35.jpg" crc="4013587842" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022272x35_2x.jpg" crc="238667701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022wine-photo960x541.jpg" crc="4069264888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -545,22 +497,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top2-2022256x190_2x.jpg" crc="483751438" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022241x31.jpg" crc="4192408327" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022241x31_2x.jpg" crc="4196359474" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022241x31.jpg" crc="66477868" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022241x31_2x.jpg" crc="4235815421" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo850x479.jpg" crc="463874350" seo="true" ref="index">
@@ -596,22 +532,6 @@
     <file name="top2-2022231x171_2x.jpg" crc="4207731290" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ticket-button-ga-2022217x28.jpg" crc="3838434877" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022217x28_2x.jpg" crc="329725976" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022217x28.jpg" crc="3886453954" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022217x28_2x.jpg" crc="4022068408" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022wine-photo768x433.jpg" crc="4037097882" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -643,22 +563,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top2-2022201x149_2x.jpg" crc="4220809831" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022189x24.jpg" crc="3814678258" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022189x24_2x.jpg" crc="454235981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022189x24.jpg" crc="3846375829" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022189x24_2x.jpg" crc="4205165564" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo667x376.jpg" crc="350756825" seo="true" ref="index">
@@ -694,22 +598,6 @@
     <file name="top2-2022171x127_2x.jpg" crc="4244770276" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ticket-button-ga-2022161x21.jpg" crc="4204396418" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022161x21_2x.jpg" crc="439963255" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022161x21.jpg" crc="4292993382" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022161x21_2x.jpg" crc="3826212735" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022wine-photo568x320.jpg" crc="276948637" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -741,22 +629,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top2-2022205x152_2x.jpg" crc="99478126" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022.jpg" crc="3920241701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022_2x.jpg" crc="475435773" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022.jpg" crc="100242390" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022_2x.jpg" crc="4132715776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo-mobile414x342.jpg" crc="377732911" seo="true" ref="index">
@@ -795,22 +667,6 @@
     <file name="top2-2022186x138_2x.jpg" crc="4192550330" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ticket-button-ga-2022337x43.jpg" crc="4238347336" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022337x43_2x.jpg" crc="353100435" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022337x43.jpg" crc="4055850395" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022337x43_2x.jpg" crc="4179675397" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022wine-photo-mobile375x310.jpg" crc="3897792405" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -845,22 +701,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="top2-2022159x118_2x.jpg" crc="4009722004" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022278x36.jpg" crc="3774527540" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-ga-2022278x36_2x.jpg" crc="241367683" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022278x36.jpg" crc="11532042" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ticket-button-vip-2022278x36_2x.jpg" crc="529916660" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022wine-photo-mobile320x264.jpg" crc="4024105332" seo="true" ref="index">
@@ -1493,7 +1333,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="374996686" seo="true" mt="1654548118419" redirect="true"/>
+  <file name="index.html" crc="122770970" seo="true" mt="1655816326154" redirect="true"/>
   <file name="wineries.html" crc="4021408888" seo="true" mt="1650982669077" redirect="true"/>
   <file name="wine-list.html" crc="60916499" seo="true" mt="1650995820769" redirect="true"/>
 </manifest>
