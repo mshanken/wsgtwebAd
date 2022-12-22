@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1671555054012">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1671726065677">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_no-notice.css" crc="195304891" ref="index"/>
-    <file name="nomq_preview_master_no-notice.css" crc="3957597990" ref="index"/>
-    <file name="index.css" crc="3954999420" ref="index"/>
-    <file name="nomq_index.css" crc="223164427" ref="index"/>
+    <file name="master_no-notice.css" crc="3769271839" ref="index"/>
+    <file name="nomq_preview_master_no-notice.css" crc="3802542948" ref="index"/>
+    <file name="index.css" crc="3915364729" ref="index"/>
+    <file name="nomq_index.css" crc="201807393" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -1193,5 +1193,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="231536133" seo="true" mt="1671555010124" redirect="true"/>
+  <file name="index.html" crc="3918473546" seo="true" mt="1671725984859" redirect="true"/>
 </manifest>
