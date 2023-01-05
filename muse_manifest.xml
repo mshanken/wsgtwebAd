@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1671726065677">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1672946124438">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_no-notice.css" crc="3769271839" ref="index"/>
-    <file name="nomq_preview_master_no-notice.css" crc="3802542948" ref="index"/>
-    <file name="index.css" crc="3915364729" ref="index"/>
-    <file name="nomq_index.css" crc="201807393" ref="index"/>
+    <file name="master_no-notice.css" crc="110847278" ref="index"/>
+    <file name="nomq_preview_master_no-notice.css" crc="3957597990" ref="index"/>
+    <file name="index.css" crc="310124706" ref="index"/>
+    <file name="nomq_index.css" crc="223164427" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -211,16 +211,16 @@
     </file>
     <file name="book-your-room300x70.png" crc="3899720744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room300x70_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon300x70.png" crc="3762132431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon300x70_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1.jpg" crc="3760027925" seo="true" ref="index">
@@ -319,16 +319,16 @@
     </file>
     <file name="book-your-room250x58.png" crc="69090166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room250x58_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon250x58.png" crc="4140675349" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon250x58_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1268x437.jpg" crc="4050356412" seo="true" ref="index">
@@ -407,16 +407,16 @@
     </file>
     <file name="book-your-room215x50.png" crc="87551093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room215x50_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon215x50.png" crc="3994498574" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon215x50_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1273x446.jpg" crc="3981958188" seo="true" ref="index">
@@ -495,16 +495,16 @@
     </file>
     <file name="book-your-room183x43.png" crc="3890448577" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room183x43_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon183x43.png" crc="395797793" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon183x43_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1238x389.jpg" crc="4079051333" seo="true" ref="index">
@@ -583,16 +583,16 @@
     </file>
     <file name="book-your-room172x40.png" crc="87244211" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room172x40_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon172x40.png" crc="4007187151" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon172x40_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1219x357.jpg" crc="151224032" seo="true" ref="index">
@@ -676,16 +676,16 @@
     </file>
     <file name="book-your-room152x36.png" crc="3819041338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room152x36_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon152x36.png" crc="3824201714" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon152x36_2x.png" crc="154615581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1194x316.jpg" crc="3804961381" seo="true" ref="index">
@@ -764,16 +764,16 @@
     </file>
     <file name="book-your-room138x32.png" crc="3856922357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room138x32_2x.png" crc="472599597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon138x32.png" crc="3967504846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon138x32_2x.png" crc="221745613" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1175x286.jpg" crc="230403842" seo="true" ref="index">
@@ -852,16 +852,16 @@
     </file>
     <file name="book-your-room120x28.png" crc="216409862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room120x28_2x.png" crc="3898672722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon120x28.png" crc="469173205" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon120x28_2x.png" crc="3928149013" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1168x274.jpg" crc="3810353338" seo="true" ref="index">
@@ -944,16 +944,16 @@
     </file>
     <file name="book-your-room102x24.png" crc="148172306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room102x24_2x.png" crc="499761443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon102x24.png" crc="4220392323" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon102x24_2x.png" crc="465115002" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1143x234.jpg" crc="3896365519" seo="true" ref="index">
@@ -1032,16 +1032,16 @@
     </file>
     <file name="book-your-room.png" crc="3899720744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon.png" crc="3802110792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glasses1250x408.jpg" crc="3843118274" seo="true" ref="index">
@@ -1095,20 +1095,20 @@
     <file name="book-your-room260x61.png" crc="4266064785" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="book-your-room260x61_2x.png" crc="3899720744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon260x61.png" crc="204287110" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="room-block-coming-soon260x61_2x.png" crc="3957387251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -1193,5 +1193,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3918473546" seo="true" mt="1671725984859" redirect="true"/>
+  <file name="index.html" crc="4236043414" seo="true" mt="1672946088536" redirect="true"/>
 </manifest>
