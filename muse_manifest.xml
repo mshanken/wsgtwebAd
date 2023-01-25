@@ -1,10 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1673536804047">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1674674351690">
   <folder name="css">
-    <file name="site_global.css" crc="54365048"/>
-    <file name="master_no-notice.css" crc="4024811361" ref="index"/>
-    <file name="nomq_preview_master_no-notice.css" crc="3957597990" ref="index"/>
-    <file name="index.css" crc="189616651" ref="index"/>
-    <file name="nomq_index.css" crc="4089646381" ref="index"/>
+    <file name="site_global.css" crc="91036504"/>
+    <file name="master_no-notice.css" crc="4177277605" ref="index:wineries"/>
+    <file name="nomq_preview_master_no-notice.css" crc="3802542948" ref="index:wineries"/>
+    <file name="index.css" crc="4186006217" ref="index"/>
+    <file name="nomq_index.css" crc="3932685124" ref="index"/>
+    <file name="wineries.css" crc="348930488" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="267635054" ref="wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -28,15 +30,15 @@
     <file name="gt22floorplan_fl.pdf" crc="230632698" seo="true" mt="1653504250000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:wineries"/>
+    <file name="museutils.js" crc="3939489907" ref="index:wineries"/>
+    <file name="whatinput.js" crc="86476730" ref="index:wineries"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:wineries"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:wineries"/>
+    <file name="webpro.js" crc="3856315280" ref="index:wineries"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:wineries"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:wineries"/>
+    <file name="require.js" crc="4177726516" ref="index:wineries"/>
   </folder>
   <folder name="images">
     <file name="no-notice-favicon.ico" crc="4220636928" ref="index"/>
@@ -49,7 +51,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:wineries"/>
     <file name="rule312x3.png" crc="3813517843" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -65,7 +67,7 @@
     <file name="rule310x3.png" crc="3813517843" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="link.gif" crc="4279216573" seo="true" ref="index">
+    <file name="link.gif" crc="4279216573" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -103,7 +105,7 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
     </file>
-    <file name="link_2x.gif" crc="4279216573" seo="true" ref="index">
+    <file name="link_2x.gif" crc="4279216573" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -141,8 +143,9 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
     </file>
-    <file name="grandtour2023-header.jpg" crc="3862489795" seo="true" ref="index">
+    <file name="grandtour2023-header.jpg" crc="3862489795" seo="true" ref="index:wineries">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines944x118.png" crc="4201468268" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -188,9 +191,6 @@
     <file name="group3360x261.jpg" crc="444002001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4.jpg" crc="4034827210" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5.jpg" crc="102593323" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -229,11 +229,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2.png" crc="8312065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header1400x661.jpg" crc="200637231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines.png" crc="4021923544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -292,9 +290,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4300x218.jpg" crc="55956917" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5300x218.jpg" crc="513038471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -326,11 +321,9 @@
     <file name="glasses1268x437.jpg" crc="4050356412" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2507x660.png" crc="8312065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header1200x567.jpg" crc="435840119" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines994x125.png" crc="3890495100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -376,9 +369,6 @@
     <file name="group3258x187.jpg" crc="66953123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4258x187.jpg" crc="3991642611" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5258x187.jpg" crc="166035916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -410,11 +400,9 @@
     <file name="glasses1273x446.jpg" crc="3981958188" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2502x654.png" crc="8312065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header1024x484.jpg" crc="3962457894" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines841x106.png" crc="4079765181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -460,9 +448,6 @@
     <file name="group3220x159.jpg" crc="63701665" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4220x159.jpg" crc="3972536836" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5220x159.jpg" crc="3886354396" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -494,11 +479,9 @@
     <file name="glasses1238x389.jpg" crc="4079051333" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2434x566.png" crc="8312065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header960x454.jpg" crc="3791368349" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines795x100.png" crc="501192285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -544,9 +527,6 @@
     <file name="group3206x149.jpg" crc="4194997668" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4206x149.jpg" crc="336899705" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5206x149.jpg" crc="332413485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -583,11 +563,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2430x560.png" crc="8312065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header850x402.jpg" crc="433901449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines625x79.png" crc="171887884" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -633,9 +611,6 @@
     <file name="group3183x132.jpg" crc="3805268043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4183x132.jpg" crc="387364630" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5183x132.jpg" crc="324326067" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -667,11 +642,9 @@
     <file name="glasses1194x316.jpg" crc="3804961381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2366x476.png" crc="134528289" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header768x363.jpg" crc="4037356841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines596x75.png" crc="3911071082" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -717,9 +690,6 @@
     <file name="group3165x120.jpg" crc="236494901" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4165x120.jpg" crc="48835764" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5165x120.jpg" crc="116138648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -751,11 +721,9 @@
     <file name="glasses1175x286.jpg" crc="230403842" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2345x449.png" crc="195919720" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header667x315.jpg" crc="3969350970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines544x68.png" crc="456243499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -801,9 +769,6 @@
     <file name="group3143x104.jpg" crc="3964449366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4143x104.jpg" crc="3949250199" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5143x104.jpg" crc="388029431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -839,11 +804,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2289x377.png" crc="3788088219" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header568x269.jpg" crc="4179062210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines463x58.png" crc="269492986" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -889,9 +852,6 @@
     <file name="group3122x89.jpg" crc="233149781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group4122x89.jpg" crc="3790144975" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="group5122x89.jpg" crc="350403983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -926,11 +886,9 @@
     <file name="faq175x29.png" crc="4025746720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2251x327.png" crc="6446425" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header414x196.jpg" crc="128097806" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines-mobile371x134.png" crc="369884866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1007,11 +965,9 @@
     <file name="glasses1250x408.jpg" crc="3843118274" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2356x465.png" crc="3972388318" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header375x178.jpg" crc="523257685" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines-mobile337x121.png" crc="63187306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1074,11 +1030,9 @@
     <file name="faq1115x44.png" crc="4025746720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2334x435.png" crc="329436929" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="grandtour2023-header320x152.jpg" crc="4115124054" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
     </file>
     <file name="taste0ver200wines-mobile287x104.png" crc="3760532685" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1145,9 +1099,70 @@
     <file name="glasses1181x295.jpg" crc="4083380435" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group2278x362.png" crc="4252263919" seo="true" ref="index">
+    <file name="group4r1.jpg" crc="210837760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1.jpg" crc="3965867804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1300x218.jpg" crc="4129725394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1506x660.jpg" crc="4012389045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1258x187.jpg" crc="69823907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1502x654.jpg" crc="4032691684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1220x159.jpg" crc="452344466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1434x566.jpg" crc="259472009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1206x149.jpg" crc="3853912000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1430x560.jpg" crc="4079851407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1183x132.jpg" crc="3818774291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1365x476.jpg" crc="351389105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1165x120.jpg" crc="153912600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1344x449.jpg" crc="3857376569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1143x104.jpg" crc="3837859331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1289x377.jpg" crc="164916608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group4r1122x89.jpg" crc="530135637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1250x327.jpg" crc="281765107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1356x465.jpg" crc="4012209610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1334x435.jpg" crc="4026130258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group2r1278x362.jpg" crc="279996693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="103262345" seo="true" mt="1673536749013" redirect="true"/>
+  <file name="index.html" crc="129179894" seo="true" mt="1674674267916" redirect="true"/>
+  <file name="wineries.html" crc="102057516" seo="true" mt="1674673740663" redirect="true"/>
 </manifest>
