@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1674857715173">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1675450338925">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_no-notice.css" crc="518783118" ref="index:wineries"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_no-notice.css" crc="3910434137" ref="index:wineries"/>
     <file name="nomq_preview_master_no-notice.css" crc="3802542948" ref="index:wineries"/>
     <file name="index.css" crc="4186006217" ref="index"/>
     <file name="nomq_index.css" crc="3932685124" ref="index"/>
-    <file name="wineries.css" crc="244029979" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="4257047316" ref="wineries"/>
+    <file name="wineries.css" crc="3863904659" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="158331895" ref="wineries"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -1164,5 +1164,5 @@
     </file>
   </folder>
   <file name="index.html" crc="129179894" seo="true" mt="1674674267916" redirect="true"/>
-  <file name="wineries.html" crc="4092311111" seo="true" mt="1674857678739" redirect="true"/>
+  <file name="wineries.html" crc="3832705147" seo="true" mt="1675450297976" redirect="true"/>
 </manifest>
