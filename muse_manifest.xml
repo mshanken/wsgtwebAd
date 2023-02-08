@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1675714675011">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="grandtour2023.com" resolutions="1x,2x" timestamp="1675873519617">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_no-notice.css" crc="37233372" ref="index:wineries"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_no-notice.css" crc="534012797" ref="index:wineries"/>
     <file name="nomq_preview_master_no-notice.css" crc="3802542948" ref="index:wineries"/>
-    <file name="index.css" crc="4186006217" ref="index"/>
-    <file name="nomq_index.css" crc="3932685124" ref="index"/>
+    <file name="index.css" crc="117563020" ref="index"/>
+    <file name="nomq_index.css" crc="113872721" ref="index"/>
     <file name="wineries.css" crc="369050393" ref="wineries"/>
     <file name="nomq_wineries.css" crc="4108072078" ref="wineries"/>
   </folder>
@@ -191,9 +191,6 @@
     <file name="group3360x261.jpg" crc="444002001" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group5.jpg" crc="102593323" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="plan.png" crc="443074545" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -290,9 +287,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group5300x218.jpg" crc="513038471" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="plan480x89.png" crc="55349242" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -367,9 +361,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="group3258x187.jpg" crc="66953123" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="group5258x187.jpg" crc="166035916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="plan411x76.png" crc="121706110" seo="true" ref="index">
@@ -448,9 +439,6 @@
     <file name="group3220x159.jpg" crc="63701665" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group5220x159.jpg" crc="3886354396" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="plan351x65.png" crc="4134999543" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -525,9 +513,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="group3206x149.jpg" crc="4194997668" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="group5206x149.jpg" crc="332413485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="plan329x61.png" crc="206278989" seo="true" ref="index">
@@ -611,9 +596,6 @@
     <file name="group3183x132.jpg" crc="3805268043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group5183x132.jpg" crc="324326067" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="plan291x54.png" crc="402608169" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -690,9 +672,6 @@
     <file name="group3165x120.jpg" crc="236494901" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="group5165x120.jpg" crc="116138648" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="plan263x49.png" crc="449649999" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -767,9 +746,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="group3143x104.jpg" crc="3964449366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="group5143x104.jpg" crc="388029431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="plan229x43.png" crc="4180927590" seo="true" ref="index">
@@ -850,9 +826,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="group3122x89.jpg" crc="233149781" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="group5122x89.jpg" crc="350403983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="plan195x36.png" crc="496154743" seo="true" ref="index">
@@ -1162,7 +1135,34 @@
     <file name="group2r1278x362.jpg" crc="279996693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="group5r1.jpg" crc="274591020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1300x218.jpg" crc="3959018734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1258x187.jpg" crc="4259271279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1220x159.jpg" crc="3892824555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1206x149.jpg" crc="306563624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1183x132.jpg" crc="172080249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1165x120.jpg" crc="3817229680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1143x104.jpg" crc="3966846366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group5r1122x89.jpg" crc="4226341744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="129179894" seo="true" mt="1674674267916" redirect="true"/>
+  <file name="index.html" crc="4161840056" seo="true" mt="1675873467002" redirect="true"/>
   <file name="wineries.html" crc="4115079678" seo="true" mt="1675714645166" redirect="true"/>
 </manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2023.com/index.html</loc>
-    <lastmod>2023-01-25</lastmod>
+    <lastmod>2023-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,9 +67,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group3360x261.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/group5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan.png</image:loc>
@@ -138,9 +135,6 @@
       <image:loc>http://grandtour2023.com/images/group3300x218.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/group5300x218.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/plan480x89.png</image:loc>
     </image:image>
     <image:image>
@@ -202,9 +196,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group3258x187.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/group5258x187.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan411x76.png</image:loc>
@@ -270,9 +261,6 @@
       <image:loc>http://grandtour2023.com/images/group3220x159.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/group5220x159.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/plan351x65.png</image:loc>
     </image:image>
     <image:image>
@@ -334,9 +322,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group3206x149.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/group5206x149.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan329x61.png</image:loc>
@@ -405,9 +390,6 @@
       <image:loc>http://grandtour2023.com/images/group3183x132.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/group5183x132.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/plan291x54.png</image:loc>
     </image:image>
     <image:image>
@@ -471,9 +453,6 @@
       <image:loc>http://grandtour2023.com/images/group3165x120.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/group5165x120.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/plan263x49.png</image:loc>
     </image:image>
     <image:image>
@@ -535,9 +514,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group3143x104.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/group5143x104.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan229x43.png</image:loc>
@@ -604,9 +580,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group3122x89.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/group5122x89.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan195x36.png</image:loc>
@@ -877,6 +850,33 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group2r1278x362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1300x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1258x187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1220x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1206x149.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1183x132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1165x120.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1143x104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/group5r1122x89.jpg</image:loc>
     </image:image>
   </url>
   <url>
