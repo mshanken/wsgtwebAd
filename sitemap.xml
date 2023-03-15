@@ -929,7 +929,7 @@
   </url>
   <url>
     <loc>http://grandtour2023.com/wineries.html</loc>
-    <lastmod>2023-03-06</lastmod>
+    <lastmod>2023-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -940,6 +940,39 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/grandtour2023-header.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header1400x661.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header1200x567.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header1024x484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header960x454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header850x402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header768x363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header667x315.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header568x269.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header414x196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header375x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/grandtour2023-header320x152.jpg</image:loc>
     </image:image>
   </url>
   <url>
