@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://grandtour2023.com/index.html</loc>
-    <lastmod>2023-03-06</lastmod>
+    <lastmod>2023-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -45,19 +45,10 @@
       <image:loc>http://grandtour2023.com/images/tickets_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip.jpg</image:loc>
@@ -73,15 +64,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room300x70.png</image:loc>
@@ -111,19 +93,10 @@
       <image:loc>http://grandtour2023.com/images/tickets250x96_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1348x200.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga250x58.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga250x58_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1348x200.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1348x200.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip250x58.jpg</image:loc>
@@ -139,15 +112,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan480x89_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv296x171.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch296x171.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl296x171.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room250x58.png</image:loc>
@@ -174,19 +138,10 @@
       <image:loc>http://grandtour2023.com/images/tickets215x83_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1349x201.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga215x50.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga215x50_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1349x201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1349x201.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip215x50.jpg</image:loc>
@@ -202,15 +157,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan411x76_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv254x146.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch254x146.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl254x146.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room215x50.png</image:loc>
@@ -237,19 +183,10 @@
       <image:loc>http://grandtour2023.com/images/tickets183x71_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1298x171.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga214x50.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga214x50_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1298x171.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1298x171.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip214x50.jpg</image:loc>
@@ -265,15 +202,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan351x65_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv217x125.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch217x125.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl217x125.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room183x43.png</image:loc>
@@ -300,19 +228,10 @@
       <image:loc>http://grandtour2023.com/images/tickets172x66_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1279x161.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga195x46.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga195x46_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1279x161.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1279x161.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip195x46.jpg</image:loc>
@@ -328,15 +247,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan329x61_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv203x117.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch203x117.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl203x117.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room172x40.png</image:loc>
@@ -366,19 +276,10 @@
       <image:loc>http://grandtour2023.com/images/tickets152x59_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1247x142.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga175x41.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga175x41_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1247x142.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1247x142.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip175x41.jpg</image:loc>
@@ -394,15 +295,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan291x54_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv180x104.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch180x104.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl180x104.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room152x36.png</image:loc>
@@ -429,19 +321,10 @@
       <image:loc>http://grandtour2023.com/images/tickets138x53_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1223x129.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga165x39.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga165x39_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1223x129.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1223x129.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip165x39.jpg</image:loc>
@@ -457,15 +340,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan263x49_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv163x94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch163x94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl163x94.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room138x32.png</image:loc>
@@ -492,19 +366,10 @@
       <image:loc>http://grandtour2023.com/images/tickets120x46_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1194x112.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga145x34.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga145x34_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1194x112.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1194x112.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip145x34.jpg</image:loc>
@@ -520,15 +385,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan229x43_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv141x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch141x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl141x82.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room120x28.png</image:loc>
@@ -558,19 +414,10 @@
       <image:loc>http://grandtour2023.com/images/tickets102x39_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1165x95.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga135x32.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/ga135x32_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1165x95.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1165x95.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/vip135x32.jpg</image:loc>
@@ -586,15 +433,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan195x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv121x70.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch121x70.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl121x70.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room102x24.png</image:loc>
@@ -627,9 +465,6 @@
       <image:loc>http://grandtour2023.com/images/tickets189x73_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1325x187.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga260x61.jpg</image:loc>
     </image:image>
     <image:image>
@@ -642,12 +477,6 @@
       <image:loc>http://grandtour2023.com/images/vip260x61_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1325x187.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1325x187.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/group3.jpg</image:loc>
     </image:image>
     <image:image>
@@ -655,15 +484,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan300x56_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv320x185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch320x185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl320x185.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room.png</image:loc>
@@ -693,28 +513,10 @@
       <image:loc>http://grandtour2023.com/images/tickets186x72_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1295x170.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1295x170.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1295x170.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/plan280x52.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan280x52_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv280x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch280x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl280x162.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/book-your-room260x61.png</image:loc>
@@ -747,9 +549,6 @@
       <image:loc>http://grandtour2023.com/images/tickets157x61_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/florida1252x145.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/ga240x56.jpg</image:loc>
     </image:image>
     <image:image>
@@ -762,12 +561,6 @@
       <image:loc>http://grandtour2023.com/images/vip240x56_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/chicago1252x145.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/lasvegas1252x145.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/group3280x203.jpg</image:loc>
     </image:image>
     <image:image>
@@ -775,15 +568,6 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/plan260x48_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-lv260x150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-ch260x150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/venue-fl260x150.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/glasses1181x295.jpg</image:loc>
@@ -877,6 +661,222 @@
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/group5r1122x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2348x200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2348x200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2348x200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2296x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2296x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2296x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2349x201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2349x201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2349x201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2254x146.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2254x146.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2254x146.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2298x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2298x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2298x171.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2217x125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2217x125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2217x125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2279x161.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2279x161.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2279x161.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2203x117.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2203x117.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2203x117.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2247x142.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2247x142.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2247x142.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2180x104.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2180x104.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2180x104.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2223x129.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2223x129.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2223x129.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2163x94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2163x94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2163x94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2194x112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2194x112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2194x112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2141x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2141x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2141x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2165x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2165x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2165x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2121x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2121x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2121x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2325x187.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2325x187.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2325x187.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2320x185.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2320x185.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2320x185.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2295x170.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2295x170.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2295x170.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2280x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2280x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2280x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/florida2252x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/chicago2252x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/lasvegas2252x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-lv2260x150.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-ch2260x150.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://grandtour2023.com/images/venue-fl2260x150.png</image:loc>
     </image:image>
   </url>
   <url>
