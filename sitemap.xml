@@ -27,9 +27,6 @@
       <image:loc>http://grandtour2023.com/images/link.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/link_2x.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/taste0ver200wines944x118.png</image:loc>
     </image:image>
     <image:image>
@@ -828,9 +825,6 @@
       <image:loc>http://grandtour2023.com/images/link.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://grandtour2023.com/images/link_2x.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://grandtour2023.com/images/fl-download-floorplan.png</image:loc>
     </image:image>
     <image:image>
@@ -1039,9 +1033,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://grandtour2023.com/images/link.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://grandtour2023.com/images/link_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://grandtour2023.com/images/fl-download-floorplan.png</image:loc>
